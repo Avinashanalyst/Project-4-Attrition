@@ -1,0 +1,1001 @@
+Employee_ID,Age,Gender,Marital_Status,Education_Level,Job_Role,Department,Years_with_Company,Current_Salary,Job_Satisfaction_Score,Performance_Rating,Promotion_History,Training_History,Exit_Reason,Work_Life_Balance_Score,Previous_Experience_Years,Status,Date_of_Joining,Date_of_Leaving,Resignation Status
+EMP_1,50,Male,Single,Master's,Manager,Management,5,82672,1,2,1,Completed,None,5,6,Active,4/26/2004,,N
+EMP_2,27,Male,Single,High School,Finance,Finance,8,99592,2,2,1,Not Completed,Voluntary,4,2,Active,1/20/2004,,N
+EMP_3,37,Other,Single,Doctorate,IT Support,Management,9,108391,3,2,2,Completed,Voluntary,1,6,Terminated,2/15/2012,3/7/2013,Y
+EMP_4,55,Female,Divorced,Master's,HR,IT,17,86849,4,3,2,Not Completed,Voluntary,4,7,Terminated,1/16/2002,3/24/2009,Y
+EMP_5,58,Female,Married,Master's,Engineer,IT,5,92313,4,4,0,Not Completed,Voluntary,1,4,Active,8/1/2013,,N
+EMP_6,32,Male,Married,High School,Manager,IT,19,53488,2,2,0,Completed,Voluntary,2,4,Active,6/14/2008,,N
+EMP_7,32,Other,Single,Master's,IT Support,HR,19,111308,2,3,0,Not Completed,None,2,13,Active,12/23/2012,,N
+EMP_8,46,Male,Divorced,High School,Finance,IT,2,118652,4,2,0,Completed,None,4,3,Active,6/3/2015,,N
+EMP_9,40,Female,Single,High School,Manager,Finance,19,97192,3,4,2,Completed,None,3,2,Active,11/9/2018,,N
+EMP_10,53,Female,Married,High School,Finance,Sales,15,101449,3,2,2,Completed,Involuntary,1,11,Resigned,5/29/2000,4/26/2008,Y
+EMP_11,29,Other,Divorced,Master's,Sales,Management,8,95387,1,4,0,Not Completed,Voluntary,5,7,Resigned,7/29/2019,11/5/2021,Y
+EMP_12,33,Male,Divorced,Master's,IT Support,Management,8,103509,2,3,2,Completed,None,3,10,Resigned,10/2/2015,1/23/2025,Y
+EMP_13,56,Other,Married,Bachelor's,IT Support,Sales,1,46975,2,3,2,Not Completed,Voluntary,2,5,Active,8/1/2010,,N
+EMP_14,27,Male,Divorced,High School,Finance,Finance,14,72392,2,2,0,Completed,None,1,13,Resigned,5/29/2013,11/16/2014,Y
+EMP_15,42,Other,Divorced,High School,Sales,HR,11,43305,4,1,1,Not Completed,None,3,5,Resigned,8/17/2013,1/29/2022,Y
+EMP_16,47,Female,Single,High School,HR,Engineering,7,106215,4,4,1,Not Completed,None,5,1,Active,1/30/2019,,N
+EMP_17,22,Other,Divorced,High School,Engineer,Finance,18,51961,4,2,0,Not Completed,Voluntary,3,3,Active,8/7/2014,,N
+EMP_18,38,Female,Single,High School,Sales,IT,15,30228,3,3,1,Not Completed,Involuntary,5,14,Active,11/21/2017,,N
+EMP_19,56,Female,Divorced,High School,Manager,Finance,10,111179,4,2,2,Completed,Voluntary,2,4,Active,5/17/2006,,N
+EMP_20,48,Male,Single,High School,Finance,Management,4,113544,1,4,1,Completed,None,1,10,Terminated,8/2/2004,10/7/2007,Y
+EMP_21,23,Other,Single,Bachelor's,IT Support,Management,1,53474,4,2,0,Completed,None,2,9,Active,11/8/2015,,N
+EMP_22,57,Other,Divorced,Bachelor's,Manager,HR,14,33979,3,4,0,Completed,None,1,4,Terminated,1/30/2007,4/19/2012,Y
+EMP_23,22,Other,Single,Doctorate,IT Support,IT,9,76343,2,3,1,Not Completed,Voluntary,3,2,Active,7/17/2006,,N
+EMP_24,31,Other,Married,High School,Sales,HR,13,30739,1,1,1,Completed,None,2,9,Resigned,11/4/2001,7/5/2003,Y
+EMP_25,52,Male,Married,High School,IT Support,HR,17,49558,3,1,2,Not Completed,None,1,4,Resigned,2/18/2010,4/13/2012,Y
+EMP_26,58,Male,Divorced,Bachelor's,IT Support,Sales,4,67817,5,3,1,Not Completed,Voluntary,5,4,Active,9/22/2003,,N
+EMP_27,26,Male,Divorced,Bachelor's,IT Support,Engineering,5,81799,2,3,1,Completed,Involuntary,1,1,Terminated,5/24/2008,1/14/2016,Y
+EMP_28,34,Female,Divorced,High School,IT Support,Engineering,18,68154,4,2,1,Completed,None,2,4,Active,8/12/2008,,N
+EMP_29,45,Female,Married,High School,Manager,IT,17,62272,3,3,2,Completed,Involuntary,2,2,Active,1/27/2017,,N
+EMP_30,48,Female,Divorced,Bachelor's,Finance,HR,7,67339,5,3,1,Completed,Voluntary,3,14,Active,11/26/2009,,N
+EMP_31,22,Male,Divorced,Bachelor's,Engineer,Management,10,109796,3,4,2,Completed,Voluntary,5,2,Active,5/25/2008,,N
+EMP_32,41,Female,Single,Doctorate,Manager,Engineering,9,36594,4,2,2,Not Completed,None,1,4,Terminated,12/2/2005,11/7/2007,Y
+EMP_33,29,Other,Divorced,Doctorate,HR,Finance,13,43185,3,4,0,Completed,Voluntary,2,8,Active,12/15/2003,,N
+EMP_34,24,Female,Married,High School,Finance,Sales,18,42572,5,2,0,Completed,Voluntary,1,13,Active,1/8/2011,,N
+EMP_35,53,Male,Married,Bachelor's,Finance,Management,12,47569,3,2,2,Completed,None,4,1,Resigned,11/30/2005,2/17/2015,Y
+EMP_36,46,Male,Divorced,Doctorate,HR,Sales,8,112509,1,1,2,Not Completed,None,5,8,Active,1/9/2015,,N
+EMP_37,46,Male,Married,High School,Sales,Finance,18,99753,1,1,2,Completed,None,5,2,Active,3/7/2014,,N
+EMP_38,35,Male,Single,Doctorate,HR,Engineering,5,103184,4,3,0,Not Completed,Involuntary,4,12,Active,3/7/2009,,N
+EMP_39,48,Other,Single,Doctorate,Sales,Sales,7,47519,5,2,2,Not Completed,Retirement,5,11,Active,6/20/2017,,N
+EMP_40,53,Female,Divorced,Doctorate,Engineer,IT,15,61953,5,3,0,Not Completed,None,4,6,Active,7/26/2018,,N
+EMP_41,48,Female,Divorced,Master's,Sales,Sales,3,49804,5,4,0,Completed,None,1,11,Active,8/4/2016,,N
+EMP_42,25,Male,Single,High School,Engineer,Sales,18,106286,5,3,2,Not Completed,Voluntary,4,13,Active,9/30/2019,,N
+EMP_43,32,Female,Single,Doctorate,Engineer,Finance,6,95537,5,4,2,Not Completed,Voluntary,3,0,Active,3/16/2016,,N
+EMP_44,24,Other,Divorced,High School,IT Support,Management,6,47275,2,1,2,Not Completed,Voluntary,4,0,Active,1/17/2016,,N
+EMP_45,46,Male,Married,High School,IT Support,Management,1,103418,3,1,0,Completed,None,1,7,Resigned,3/12/2013,8/16/2019,Y
+EMP_46,45,Female,Divorced,Bachelor's,HR,Finance,17,92068,5,4,1,Not Completed,Retirement,5,8,Active,3/9/2018,,N
+EMP_47,30,Female,Divorced,High School,Engineer,Sales,11,93344,1,4,2,Completed,Voluntary,3,2,Terminated,8/12/2015,1/20/2024,Y
+EMP_48,29,Female,Divorced,Doctorate,Sales,Sales,2,108284,3,4,1,Not Completed,Involuntary,4,5,Resigned,11/5/2004,3/7/2006,Y
+EMP_49,52,Female,Divorced,High School,Manager,HR,9,62601,4,3,1,Not Completed,Voluntary,1,14,Terminated,3/7/2016,7/26/2019,Y
+EMP_50,38,Male,Divorced,Bachelor's,IT Support,IT,19,57575,4,4,1,Completed,Involuntary,3,13,Active,6/10/2012,,N
+EMP_51,52,Male,Divorced,Master's,Finance,Engineering,6,82705,5,2,1,Not Completed,None,3,2,Resigned,8/29/2004,11/5/2006,Y
+EMP_52,25,Other,Divorced,Master's,Finance,Engineering,7,85221,2,4,1,Not Completed,None,3,5,Resigned,7/13/2000,8/26/2007,Y
+EMP_53,25,Male,Married,Bachelor's,Sales,Management,4,62369,2,1,0,Not Completed,Voluntary,4,6,Active,11/22/2015,,N
+EMP_54,58,Female,Divorced,Doctorate,IT Support,Finance,3,74617,3,4,0,Completed,Voluntary,1,4,Active,7/20/2014,,N
+EMP_55,29,Female,Single,Doctorate,Manager,Sales,2,88315,2,1,0,Completed,Voluntary,1,2,Active,7/28/2001,,N
+EMP_56,27,Female,Divorced,Doctorate,Engineer,IT,10,45317,4,1,1,Completed,None,1,7,Active,3/14/2007,,N
+EMP_57,30,Other,Married,High School,IT Support,Engineering,10,86109,5,3,0,Not Completed,Involuntary,2,12,Active,1/11/2016,,N
+EMP_58,29,Male,Single,Master's,Sales,Finance,17,58318,1,4,2,Not Completed,None,5,4,Active,9/1/2017,,N
+EMP_59,53,Male,Divorced,Doctorate,Engineer,Finance,16,71239,4,1,1,Not Completed,None,1,0,Active,3/11/2016,,N
+EMP_60,36,Male,Divorced,Master's,IT Support,Sales,1,117704,4,2,2,Completed,Retirement,2,11,Terminated,5/16/2016,3/18/2020,Y
+EMP_61,39,Female,Single,Bachelor's,HR,IT,12,48082,3,4,1,Completed,None,2,14,Active,10/30/2012,,N
+EMP_62,44,Female,Divorced,Master's,Manager,Finance,10,92520,2,4,1,Completed,None,3,8,Active,9/17/2012,,N
+EMP_63,26,Female,Married,Doctorate,Finance,Engineering,1,41079,1,1,1,Not Completed,Voluntary,5,2,Active,1/23/2001,,N
+EMP_64,48,Other,Divorced,Master's,Sales,HR,16,32884,1,3,1,Completed,Retirement,3,1,Active,3/17/2015,,N
+EMP_65,54,Other,Married,Bachelor's,Finance,Engineering,11,66347,2,3,2,Completed,Retirement,5,2,Active,10/18/2004,,N
+EMP_66,23,Female,Divorced,Master's,Engineer,IT,4,102731,5,4,1,Not Completed,Involuntary,3,6,Resigned,1/4/2019,3/13/2020,Y
+EMP_67,59,Other,Single,High School,Engineer,HR,3,97787,2,4,1,Completed,Voluntary,4,11,Active,10/22/2001,,N
+EMP_68,49,Other,Married,Bachelor's,HR,Finance,13,100176,5,3,0,Not Completed,Voluntary,5,10,Active,5/17/2015,,N
+EMP_69,45,Other,Divorced,High School,Engineer,Engineering,15,48740,1,3,1,Not Completed,Voluntary,2,11,Active,10/3/2007,,N
+EMP_70,42,Male,Divorced,High School,Engineer,Sales,10,42815,3,2,1,Completed,Voluntary,2,9,Resigned,11/3/2015,8/14/2018,Y
+EMP_71,52,Other,Single,Doctorate,Finance,IT,6,95177,4,4,1,Completed,None,5,7,Terminated,9/3/2012,7/27/2021,Y
+EMP_72,32,Female,Single,Doctorate,Finance,Finance,11,72891,1,4,1,Not Completed,None,3,1,Active,10/23/2000,,N
+EMP_73,49,Male,Married,Bachelor's,Sales,Sales,1,82566,1,4,1,Completed,None,4,13,Active,5/15/2015,,N
+EMP_74,25,Other,Married,Doctorate,Sales,HR,4,71968,1,3,1,Not Completed,Retirement,4,12,Resigned,1/31/2019,4/22/2027,Y
+EMP_75,37,Female,Married,Master's,Engineer,Management,10,59913,4,1,2,Completed,None,1,6,Resigned,10/23/2018,4/14/2026,Y
+EMP_76,33,Other,Divorced,Bachelor's,IT Support,Management,15,108440,5,2,2,Completed,None,5,10,Active,11/26/2000,,N
+EMP_77,43,Female,Divorced,Doctorate,Manager,HR,1,84860,3,3,1,Not Completed,Involuntary,4,4,Active,7/22/2018,,N
+EMP_78,56,Female,Married,Doctorate,Sales,Management,15,48462,3,3,2,Not Completed,None,3,8,Active,7/16/2010,,N
+EMP_79,37,Other,Divorced,Master's,Engineer,IT,3,65482,3,2,0,Completed,Involuntary,3,6,Active,7/21/2013,,N
+EMP_80,45,Other,Single,High School,IT Support,Finance,1,102483,5,4,0,Completed,None,2,0,Active,7/8/2003,,N
+EMP_81,56,Male,Divorced,Master's,IT Support,Finance,6,31338,2,1,1,Not Completed,None,4,0,Active,12/14/2002,,N
+EMP_82,49,Other,Married,High School,Finance,IT,19,42782,2,2,1,Completed,None,4,5,Active,10/15/2014,,N
+EMP_83,50,Female,Divorced,Doctorate,IT Support,Engineering,4,115609,3,1,2,Completed,Voluntary,3,8,Active,12/7/2018,,N
+EMP_84,42,Male,Single,High School,HR,Finance,12,36614,1,4,0,Completed,Voluntary,2,0,Terminated,5/24/2002,3/12/2010,Y
+EMP_85,46,Female,Married,High School,Finance,Management,2,30741,1,1,1,Not Completed,Voluntary,4,2,Terminated,8/2/2010,1/3/2016,Y
+EMP_86,52,Female,Married,Doctorate,Finance,IT,17,60210,4,4,0,Completed,Involuntary,3,12,Active,3/30/2013,,N
+EMP_87,36,Other,Married,Bachelor's,HR,Sales,6,96269,2,3,2,Completed,Involuntary,2,4,Resigned,9/26/2016,7/18/2026,Y
+EMP_88,56,Female,Married,Master's,Finance,Engineering,12,43944,1,4,1,Completed,Voluntary,2,3,Active,5/9/2007,,N
+EMP_89,59,Other,Divorced,Doctorate,Sales,Sales,15,86991,3,2,1,Not Completed,None,3,0,Active,10/25/2006,,N
+EMP_90,43,Female,Single,Master's,Finance,Management,17,31806,4,2,1,Not Completed,Voluntary,2,9,Active,5/4/2004,,N
+EMP_91,26,Male,Divorced,Master's,HR,Sales,1,43285,2,4,0,Completed,None,2,3,Resigned,6/4/2010,8/24/2016,Y
+EMP_92,34,Other,Divorced,High School,Engineer,Management,14,106993,4,4,2,Not Completed,Voluntary,1,3,Terminated,1/19/2008,9/1/2009,Y
+EMP_93,53,Male,Married,Doctorate,Engineer,Finance,2,97289,1,3,0,Not Completed,Involuntary,2,10,Resigned,3/10/2016,1/13/2021,Y
+EMP_94,24,Other,Single,Bachelor's,Engineer,Engineering,4,70126,3,3,0,Completed,None,4,11,Active,3/21/2017,,N
+EMP_95,36,Male,Divorced,Master's,HR,HR,2,110123,3,4,1,Completed,None,2,9,Resigned,4/13/2012,11/11/2018,Y
+EMP_96,48,Other,Single,Master's,HR,Management,14,35857,3,1,2,Not Completed,Voluntary,4,12,Terminated,3/26/2012,5/1/2019,Y
+EMP_97,48,Male,Single,Bachelor's,Sales,IT,18,63792,1,3,2,Completed,None,3,3,Active,9/30/2019,,N
+EMP_98,51,Male,Single,Master's,HR,IT,8,117684,5,2,1,Completed,Retirement,2,2,Resigned,2/7/2015,7/26/2017,Y
+EMP_99,27,Other,Single,Doctorate,IT Support,Finance,1,84361,3,3,2,Completed,None,3,6,Active,7/15/2017,,N
+EMP_100,46,Other,Divorced,Bachelor's,Engineer,IT,16,66322,5,3,1,Completed,None,5,0,Resigned,10/5/2013,10/31/2017,Y
+EMP_101,49,Female,Single,Doctorate,HR,Sales,7,105507,3,3,1,Not Completed,Retirement,2,1,Active,2/11/2004,,N
+EMP_102,43,Female,Divorced,Bachelor's,Manager,Finance,6,41908,5,3,2,Not Completed,None,3,0,Active,1/15/2002,,N
+EMP_103,25,Other,Single,Master's,Finance,IT,19,94627,2,4,2,Completed,None,5,13,Resigned,2/25/2007,11/20/2008,Y
+EMP_104,36,Other,Single,Bachelor's,Sales,Sales,10,93643,2,3,2,Completed,None,4,3,Active,2/17/2004,,N
+EMP_105,47,Male,Divorced,Doctorate,Engineer,Sales,6,51202,3,1,2,Not Completed,None,4,4,Active,11/5/2004,,N
+EMP_106,39,Male,Married,Bachelor's,IT Support,Sales,10,100102,4,3,0,Completed,None,4,10,Active,5/7/2010,,N
+EMP_107,30,Female,Divorced,Master's,IT Support,IT,19,89883,4,3,1,Completed,Involuntary,4,14,Resigned,5/15/2005,7/25/2014,Y
+EMP_108,25,Female,Single,High School,Engineer,Sales,3,109558,1,2,1,Completed,Voluntary,4,9,Active,3/26/2018,,N
+EMP_109,26,Female,Divorced,Master's,IT Support,Engineering,3,73720,2,3,1,Not Completed,None,1,4,Resigned,5/14/2004,6/4/2008,Y
+EMP_110,27,Male,Single,Master's,Manager,IT,6,69662,2,2,1,Completed,None,3,1,Resigned,2/1/2013,1/21/2019,Y
+EMP_111,33,Male,Divorced,High School,Sales,Sales,17,57030,4,2,0,Completed,Voluntary,5,10,Active,12/8/2006,,N
+EMP_112,52,Male,Divorced,Bachelor's,Finance,Engineering,18,69850,3,4,2,Completed,Involuntary,5,2,Active,1/6/2010,,N
+EMP_113,30,Female,Divorced,Master's,Sales,HR,10,115288,1,2,2,Completed,None,2,3,Active,2/7/2019,,N
+EMP_114,28,Other,Married,High School,Sales,Engineering,6,65397,2,2,2,Completed,Involuntary,3,9,Active,2/4/2018,,N
+EMP_115,50,Female,Divorced,Doctorate,Engineer,IT,13,86094,1,1,1,Not Completed,Voluntary,1,5,Active,4/10/2001,,N
+EMP_116,35,Male,Divorced,High School,HR,IT,6,50616,2,1,0,Completed,Voluntary,1,5,Active,8/31/2005,,N
+EMP_117,41,Female,Married,Master's,Finance,Sales,12,95334,5,2,0,Not Completed,None,3,11,Active,9/9/2006,,N
+EMP_118,53,Female,Married,Doctorate,Sales,IT,14,36661,5,4,2,Not Completed,Involuntary,4,1,Active,5/17/2003,,N
+EMP_119,43,Female,Single,Master's,Manager,HR,17,87029,1,1,1,Completed,Retirement,4,1,Resigned,7/23/2015,5/11/2018,Y
+EMP_120,57,Female,Single,High School,Engineer,Finance,8,56047,4,1,2,Completed,None,3,8,Active,5/24/2000,,N
+EMP_121,39,Male,Divorced,Doctorate,HR,Engineering,5,69043,4,4,1,Completed,None,5,11,Terminated,12/20/2017,5/9/2025,Y
+EMP_122,46,Female,Single,Master's,HR,Finance,4,76442,2,3,2,Completed,Voluntary,4,1,Active,6/10/2006,,N
+EMP_123,52,Male,Divorced,High School,Engineer,HR,6,91378,5,1,2,Completed,Voluntary,2,1,Active,12/12/2004,,N
+EMP_124,56,Female,Married,Doctorate,Sales,Engineering,11,55943,5,2,0,Completed,Retirement,1,2,Active,5/6/2008,,N
+EMP_125,47,Male,Married,Master's,IT Support,Sales,5,64487,1,2,1,Completed,None,4,14,Active,1/25/2011,,N
+EMP_126,25,Other,Divorced,High School,Engineer,Engineering,14,104769,1,2,0,Completed,Voluntary,5,8,Resigned,5/2/2011,10/19/2020,Y
+EMP_127,41,Male,Single,Master's,IT Support,Sales,10,99023,4,4,0,Completed,Involuntary,4,13,Active,7/4/2011,,N
+EMP_128,55,Male,Single,Master's,HR,Management,11,54559,4,2,2,Completed,None,4,5,Active,10/7/2016,,N
+EMP_129,33,Other,Single,Master's,HR,Engineering,3,101380,4,3,1,Not Completed,None,1,10,Active,8/16/2011,,N
+EMP_130,37,Other,Divorced,Bachelor's,Manager,Engineering,8,71519,3,4,1,Completed,Involuntary,2,14,Active,7/11/2003,,N
+EMP_131,26,Other,Single,Master's,Manager,Finance,5,41416,5,1,2,Completed,Voluntary,2,14,Active,4/19/2000,,N
+EMP_132,56,Other,Married,Doctorate,HR,Finance,10,52859,5,4,2,Completed,Voluntary,5,11,Active,1/24/2014,,N
+EMP_133,48,Other,Married,High School,Manager,HR,8,117789,1,2,2,Not Completed,Voluntary,3,5,Active,4/7/2013,,N
+EMP_134,22,Other,Married,High School,Manager,Sales,9,48184,5,4,1,Not Completed,Voluntary,3,11,Active,6/22/2017,,N
+EMP_135,55,Female,Married,Bachelor's,Manager,IT,15,57846,1,4,2,Not Completed,Involuntary,3,9,Active,3/12/2013,,N
+EMP_136,53,Female,Married,Bachelor's,HR,Finance,1,72771,3,4,2,Completed,Retirement,5,4,Resigned,8/22/2007,4/1/2014,Y
+EMP_137,54,Other,Married,Bachelor's,Sales,HR,5,116995,4,4,0,Not Completed,Voluntary,4,14,Active,2/10/2012,,N
+EMP_138,52,Male,Married,Master's,Sales,Sales,15,45498,3,3,2,Completed,None,2,6,Active,5/11/2002,,N
+EMP_139,34,Male,Married,Master's,Finance,Sales,4,99798,4,4,2,Completed,None,2,10,Active,10/27/2014,,N
+EMP_140,23,Other,Married,Doctorate,Manager,Sales,19,62914,4,2,1,Not Completed,Retirement,4,14,Active,2/23/2015,,N
+EMP_141,51,Female,Divorced,High School,Sales,Management,10,82980,1,1,2,Completed,None,2,3,Active,4/5/2001,,N
+EMP_142,31,Female,Divorced,High School,Finance,Sales,2,75500,4,3,1,Not Completed,None,2,14,Active,1/9/2003,,N
+EMP_143,44,Male,Married,Master's,Engineer,HR,5,64885,3,4,0,Not Completed,None,3,9,Active,9/18/2014,,N
+EMP_144,54,Other,Married,High School,Manager,Sales,18,68215,2,1,0,Not Completed,Voluntary,3,9,Active,1/13/2002,,N
+EMP_145,50,Female,Married,Master's,Sales,IT,6,94320,1,3,1,Completed,Voluntary,1,2,Resigned,8/7/2006,6/26/2013,Y
+EMP_146,51,Other,Single,Bachelor's,Sales,IT,10,116934,4,2,2,Completed,Retirement,1,6,Resigned,5/20/2010,11/5/2016,Y
+EMP_147,55,Other,Divorced,Master's,IT Support,Sales,15,59924,4,2,1,Completed,Retirement,2,13,Active,4/8/2015,,N
+EMP_148,38,Male,Married,Doctorate,Sales,HR,9,85099,5,1,2,Completed,Voluntary,3,9,Active,9/2/2013,,N
+EMP_149,43,Other,Divorced,Master's,IT Support,Engineering,13,93113,1,4,2,Not Completed,None,1,0,Active,3/18/2001,,N
+EMP_150,26,Other,Married,Master's,Finance,Sales,18,30318,1,1,2,Completed,Voluntary,1,5,Resigned,1/7/2005,7/11/2014,Y
+EMP_151,32,Male,Single,High School,IT Support,HR,7,107697,3,3,1,Not Completed,None,3,12,Terminated,6/4/2002,6/6/2008,Y
+EMP_152,43,Female,Married,Master's,Engineer,Finance,2,107859,2,1,0,Completed,Involuntary,1,10,Active,7/7/2019,,N
+EMP_153,53,Other,Divorced,Doctorate,Manager,HR,16,35749,3,1,1,Not Completed,None,4,10,Active,11/13/2009,,N
+EMP_154,45,Male,Divorced,Master's,Sales,Management,2,39528,3,4,2,Not Completed,Involuntary,4,10,Resigned,9/1/2014,1/8/2022,Y
+EMP_155,32,Female,Divorced,Master's,HR,Finance,4,51441,3,2,1,Completed,None,3,1,Resigned,12/5/2011,6/22/2021,Y
+EMP_156,32,Other,Divorced,Bachelor's,Manager,IT,2,38526,2,4,0,Not Completed,Involuntary,3,1,Active,10/6/2014,,N
+EMP_157,38,Female,Married,Master's,HR,IT,17,67161,3,2,1,Completed,None,1,10,Active,12/24/2011,,N
+EMP_158,53,Male,Single,Master's,Finance,Engineering,6,31044,1,4,0,Completed,Voluntary,2,7,Active,5/10/2019,,N
+EMP_159,40,Other,Single,Master's,Sales,Engineering,10,108301,2,2,0,Not Completed,None,5,2,Active,5/30/2019,,N
+EMP_160,48,Male,Married,Doctorate,Manager,HR,14,48175,4,4,2,Completed,Involuntary,4,8,Active,10/26/2008,,N
+EMP_161,53,Male,Married,High School,Manager,HR,15,78887,5,2,0,Not Completed,None,4,3,Active,4/12/2016,,N
+EMP_162,46,Other,Divorced,Bachelor's,Sales,Sales,12,81671,5,2,1,Completed,None,3,13,Resigned,5/31/2000,8/9/2004,Y
+EMP_163,49,Male,Married,Bachelor's,Engineer,Sales,19,30961,1,2,1,Not Completed,None,2,5,Resigned,12/29/2018,6/11/2022,Y
+EMP_164,48,Female,Single,Master's,Finance,IT,11,99285,5,2,2,Not Completed,Voluntary,3,0,Resigned,5/15/2004,6/29/2009,Y
+EMP_165,35,Male,Married,Master's,Sales,Management,1,81966,5,4,1,Completed,None,1,10,Active,7/29/2004,,N
+EMP_166,23,Other,Married,High School,IT Support,Sales,8,46973,5,3,2,Completed,Voluntary,2,14,Active,8/28/2019,,N
+EMP_167,38,Other,Single,Master's,Manager,IT,6,113908,4,2,1,Not Completed,Voluntary,1,9,Active,11/9/2016,,N
+EMP_168,22,Female,Single,Doctorate,Engineer,HR,12,73393,5,2,1,Completed,Voluntary,4,9,Active,3/14/2004,,N
+EMP_169,53,Other,Married,High School,Manager,HR,16,68433,3,2,0,Not Completed,Involuntary,3,2,Active,4/14/2004,,N
+EMP_170,40,Male,Divorced,Master's,HR,Sales,18,100077,1,2,0,Completed,None,3,3,Active,8/8/2002,,N
+EMP_171,35,Male,Divorced,High School,Manager,Management,12,60678,1,2,0,Not Completed,Voluntary,5,4,Active,12/24/2007,,N
+EMP_172,52,Other,Divorced,Bachelor's,Finance,IT,2,48344,1,1,1,Completed,Voluntary,2,12,Active,10/28/2006,,N
+EMP_173,39,Female,Single,Master's,Sales,HR,7,75154,4,1,2,Not Completed,None,4,0,Active,9/3/2003,,N
+EMP_174,35,Female,Single,High School,Manager,IT,9,38846,4,2,2,Completed,None,5,13,Active,1/3/2019,,N
+EMP_175,35,Other,Divorced,High School,IT Support,Management,18,63846,5,2,2,Completed,None,5,3,Active,1/1/2002,,N
+EMP_176,45,Male,Married,Master's,HR,HR,9,100565,3,2,0,Not Completed,None,3,4,Resigned,11/12/2011,4/5/2018,Y
+EMP_177,26,Other,Married,High School,HR,IT,8,88802,5,3,1,Not Completed,Retirement,2,3,Active,6/22/2001,,N
+EMP_178,37,Other,Married,Master's,Sales,Management,1,46272,1,4,0,Not Completed,None,3,9,Active,2/7/2002,,N
+EMP_179,26,Female,Single,Master's,HR,Management,5,78613,3,2,1,Not Completed,None,2,9,Active,10/27/2007,,N
+EMP_180,34,Male,Single,Doctorate,Sales,Management,16,119306,1,3,1,Not Completed,Retirement,5,6,Resigned,3/14/2010,3/30/2011,Y
+EMP_181,37,Female,Divorced,Doctorate,Finance,Sales,14,43104,3,3,1,Not Completed,Involuntary,1,7,Active,11/27/2018,,N
+EMP_182,36,Female,Married,High School,Sales,Engineering,13,45855,2,2,0,Completed,None,4,11,Resigned,10/22/2005,1/7/2012,Y
+EMP_183,52,Male,Single,High School,Engineer,IT,11,67524,4,4,1,Completed,None,5,7,Active,3/16/2015,,N
+EMP_184,26,Male,Single,High School,HR,Management,13,96455,4,1,0,Not Completed,Voluntary,3,2,Active,9/30/2004,,N
+EMP_185,42,Male,Divorced,Bachelor's,HR,IT,15,72706,1,2,0,Completed,Retirement,4,12,Terminated,1/9/2012,6/8/2017,Y
+EMP_186,51,Other,Married,Master's,IT Support,Management,16,64526,1,2,1,Not Completed,None,5,4,Active,1/14/2000,,N
+EMP_187,44,Male,Single,Master's,Manager,IT,13,39363,2,1,1,Completed,Retirement,2,9,Active,11/20/2012,,N
+EMP_188,59,Other,Single,Bachelor's,Engineer,HR,8,82430,5,4,1,Not Completed,Involuntary,3,14,Active,1/22/2010,,N
+EMP_189,50,Female,Single,Bachelor's,Manager,IT,18,79511,3,1,0,Not Completed,None,5,7,Active,4/17/2012,,N
+EMP_190,34,Male,Single,High School,Sales,Engineering,19,86738,2,2,1,Completed,Voluntary,2,6,Active,7/9/2000,,N
+EMP_191,53,Other,Married,Master's,Finance,HR,15,109791,2,2,1,Not Completed,Involuntary,2,13,Active,5/29/2016,,N
+EMP_192,48,Other,Divorced,Doctorate,IT Support,HR,10,99346,1,3,2,Completed,None,2,8,Active,11/4/2007,,N
+EMP_193,55,Other,Married,Doctorate,HR,Management,4,31440,1,1,2,Completed,None,4,12,Terminated,2/9/2017,9/2/2021,Y
+EMP_194,54,Other,Divorced,Bachelor's,Finance,Finance,6,97255,5,3,2,Completed,None,3,9,Active,3/26/2011,,N
+EMP_195,25,Female,Single,Bachelor's,Sales,Engineering,8,74213,5,3,1,Completed,None,2,6,Active,1/9/2003,,N
+EMP_196,39,Male,Married,Master's,Sales,HR,7,30555,1,3,0,Completed,None,5,1,Active,9/13/2007,,N
+EMP_197,27,Male,Divorced,Master's,Engineer,Finance,12,107648,4,3,2,Completed,None,2,3,Active,10/14/2016,,N
+EMP_198,49,Male,Divorced,Doctorate,Manager,Finance,18,97833,5,1,0,Completed,Voluntary,3,11,Active,10/13/2001,,N
+EMP_199,48,Male,Single,Master's,HR,HR,18,31535,2,1,2,Completed,None,4,13,Active,2/23/2018,,N
+EMP_200,47,Male,Divorced,High School,HR,Management,19,44931,1,1,2,Completed,Retirement,2,11,Terminated,10/12/2003,12/20/2005,Y
+EMP_201,41,Male,Divorced,Bachelor's,Finance,Sales,4,101818,3,2,0,Completed,None,5,7,Active,11/13/2014,,N
+EMP_202,34,Other,Divorced,Doctorate,Engineer,HR,1,74262,3,4,2,Not Completed,Voluntary,3,8,Active,5/16/2019,,N
+EMP_203,49,Male,Single,Doctorate,IT Support,Management,5,54587,4,3,0,Completed,Voluntary,2,6,Active,3/16/2018,,N
+EMP_204,55,Other,Married,High School,Sales,Engineering,7,63040,1,2,1,Completed,Voluntary,4,4,Active,3/29/2018,,N
+EMP_205,44,Female,Single,Master's,Engineer,Management,11,75543,2,1,1,Not Completed,None,1,0,Resigned,3/12/2002,9/5/2008,Y
+EMP_206,31,Other,Divorced,Master's,HR,Finance,11,119177,4,1,0,Not Completed,None,5,14,Active,6/10/2012,,N
+EMP_207,51,Female,Divorced,Bachelor's,IT Support,Engineering,10,56573,2,2,0,Not Completed,None,2,8,Active,8/7/2017,,N
+EMP_208,43,Male,Married,High School,Manager,Engineering,7,100680,3,3,1,Not Completed,Voluntary,2,11,Resigned,10/22/2005,2/25/2009,Y
+EMP_209,26,Female,Divorced,Doctorate,Finance,Sales,16,87262,2,1,0,Completed,Involuntary,1,5,Resigned,6/7/2005,11/30/2013,Y
+EMP_210,30,Female,Married,High School,Sales,Sales,1,31688,3,3,1,Completed,Voluntary,3,1,Active,5/3/2011,,N
+EMP_211,25,Other,Divorced,Doctorate,Sales,HR,1,113515,5,3,1,Completed,Involuntary,1,10,Resigned,4/1/2004,5/30/2008,Y
+EMP_212,22,Other,Divorced,High School,Sales,Management,12,61803,3,4,0,Not Completed,None,3,9,Active,8/24/2007,,N
+EMP_213,55,Female,Single,Master's,Manager,HR,16,46154,3,1,2,Not Completed,None,2,9,Active,6/16/2007,,N
+EMP_214,47,Female,Single,Doctorate,HR,Sales,5,110659,4,2,0,Completed,Voluntary,1,1,Active,4/8/2015,,N
+EMP_215,39,Male,Married,Bachelor's,HR,Finance,14,53998,4,4,1,Not Completed,Voluntary,2,9,Active,7/15/2005,,N
+EMP_216,37,Other,Single,High School,Engineer,Sales,18,35786,1,3,2,Completed,Voluntary,1,0,Active,10/14/2012,,N
+EMP_217,44,Female,Married,Master's,IT Support,Management,9,89059,1,2,2,Not Completed,Involuntary,2,11,Active,12/1/2003,,N
+EMP_218,57,Other,Single,Doctorate,Engineer,Finance,2,100665,3,4,1,Not Completed,None,2,3,Active,6/20/2011,,N
+EMP_219,47,Male,Married,Master's,HR,HR,12,55777,5,4,2,Completed,None,2,9,Active,9/13/2017,,N
+EMP_220,23,Male,Divorced,High School,Sales,HR,10,98381,1,4,2,Completed,None,4,10,Active,11/18/2006,,N
+EMP_221,26,Female,Married,Bachelor's,Manager,Sales,2,103984,3,3,0,Completed,Retirement,1,12,Resigned,8/26/2001,5/15/2003,Y
+EMP_222,50,Male,Single,Bachelor's,HR,Sales,15,85290,4,3,1,Not Completed,Voluntary,4,1,Active,3/30/2019,,N
+EMP_223,25,Female,Married,High School,Manager,IT,4,57139,1,1,2,Not Completed,Voluntary,2,9,Active,7/30/2019,,N
+EMP_224,56,Other,Single,Doctorate,Finance,HR,19,117254,1,4,1,Completed,Voluntary,5,10,Active,5/3/2018,,N
+EMP_225,43,Other,Divorced,Master's,Sales,HR,4,79030,3,2,0,Completed,None,3,8,Active,11/18/2018,,N
+EMP_226,29,Female,Single,Master's,Finance,Engineering,9,53581,3,3,0,Completed,None,1,1,Active,11/22/2000,,N
+EMP_227,42,Female,Divorced,Doctorate,HR,Management,13,57993,2,4,0,Not Completed,None,1,10,Terminated,7/5/2010,3/11/2018,Y
+EMP_228,29,Female,Divorced,High School,Engineer,Engineering,10,72048,2,2,2,Not Completed,Voluntary,3,8,Active,4/28/2016,,N
+EMP_229,26,Other,Single,Master's,HR,Engineering,14,42923,5,3,0,Completed,None,4,0,Resigned,8/7/2007,12/3/2013,Y
+EMP_230,42,Other,Divorced,Master's,Finance,HR,3,43084,1,2,1,Completed,Voluntary,3,13,Active,4/8/2016,,N
+EMP_231,48,Male,Single,High School,Manager,IT,3,113096,2,2,0,Completed,Voluntary,5,6,Resigned,12/18/2009,2/19/2017,Y
+EMP_232,59,Male,Married,Master's,IT Support,Management,16,52567,3,1,2,Not Completed,Involuntary,2,14,Active,8/13/2001,,N
+EMP_233,26,Other,Divorced,Doctorate,IT Support,HR,9,49481,1,3,0,Not Completed,Involuntary,3,5,Terminated,12/9/2003,2/23/2007,Y
+EMP_234,42,Other,Married,Doctorate,HR,Engineering,14,41422,2,3,2,Completed,None,3,5,Active,10/10/2009,,N
+EMP_235,29,Female,Married,High School,Engineer,Engineering,16,97260,5,3,1,Not Completed,None,2,1,Active,4/30/2002,,N
+EMP_236,43,Other,Single,High School,Finance,HR,9,98164,5,3,0,Completed,Voluntary,1,14,Active,3/15/2001,,N
+EMP_237,39,Other,Single,Doctorate,HR,Sales,5,85296,5,1,0,Completed,Voluntary,5,0,Active,10/10/2018,,N
+EMP_238,25,Male,Divorced,High School,Finance,Sales,13,57875,5,1,1,Completed,Voluntary,3,9,Active,1/1/2018,,N
+EMP_239,25,Male,Single,Doctorate,Finance,HR,15,47734,3,4,1,Not Completed,Voluntary,3,7,Active,3/14/2008,,N
+EMP_240,58,Female,Married,Doctorate,Sales,Finance,4,119645,5,3,2,Completed,Voluntary,1,7,Resigned,2/10/2012,12/27/2019,Y
+EMP_241,36,Male,Married,Doctorate,IT Support,Finance,14,96155,4,2,0,Completed,None,5,1,Active,9/20/2014,,N
+EMP_242,59,Female,Married,Master's,IT Support,Sales,7,81700,5,1,0,Not Completed,Voluntary,2,3,Active,7/23/2004,,N
+EMP_243,48,Other,Divorced,High School,Manager,Management,4,43786,2,2,0,Completed,None,2,12,Active,12/18/2007,,N
+EMP_244,42,Other,Single,Master's,Sales,IT,17,84395,1,2,0,Completed,Involuntary,4,12,Active,7/14/2015,,N
+EMP_245,25,Female,Married,High School,IT Support,Engineering,9,95171,2,2,1,Completed,Involuntary,5,3,Active,3/21/2014,,N
+EMP_246,32,Male,Divorced,Bachelor's,Finance,Management,4,117463,1,4,0,Completed,Involuntary,5,14,Active,6/11/2003,,N
+EMP_247,40,Male,Single,Master's,Engineer,Sales,3,94763,3,4,0,Not Completed,None,3,1,Active,3/24/2004,,N
+EMP_248,40,Other,Single,Master's,Engineer,HR,19,105265,1,3,0,Not Completed,Retirement,4,10,Active,3/20/2005,,N
+EMP_249,48,Male,Married,Master's,Sales,Finance,9,117773,4,1,2,Completed,Voluntary,2,8,Active,7/3/2015,,N
+EMP_250,49,Female,Divorced,Bachelor's,Engineer,Sales,8,90922,5,3,2,Not Completed,None,5,11,Terminated,1/27/2010,1/19/2012,Y
+EMP_251,26,Other,Married,High School,Finance,Management,7,65301,2,4,2,Not Completed,Voluntary,5,13,Active,12/20/2004,,N
+EMP_252,46,Male,Married,Bachelor's,HR,Management,7,90998,1,4,1,Not Completed,None,1,3,Active,3/26/2006,,N
+EMP_253,24,Other,Divorced,High School,Finance,IT,4,89724,2,2,1,Not Completed,Voluntary,2,3,Active,1/29/2009,,N
+EMP_254,47,Other,Married,High School,IT Support,Sales,19,88976,5,3,1,Not Completed,None,1,14,Active,12/21/2003,,N
+EMP_255,31,Male,Divorced,High School,HR,Engineering,12,51735,3,2,0,Not Completed,Retirement,4,14,Active,8/9/2005,,N
+EMP_256,45,Female,Divorced,High School,Engineer,Management,6,113485,5,4,0,Not Completed,Retirement,5,3,Terminated,4/1/2013,1/19/2023,Y
+EMP_257,50,Male,Married,High School,Manager,Engineering,12,50509,3,3,1,Not Completed,Voluntary,4,4,Terminated,9/14/2009,4/11/2017,Y
+EMP_258,28,Male,Married,Bachelor's,Manager,Engineering,4,99804,2,3,2,Completed,Voluntary,1,9,Active,7/25/2019,,N
+EMP_259,44,Male,Single,Master's,Finance,HR,2,65607,3,1,0,Completed,None,2,11,Active,6/7/2013,,N
+EMP_260,48,Male,Single,Bachelor's,Finance,Sales,15,74507,3,4,2,Completed,None,5,11,Terminated,12/13/2009,6/9/2014,Y
+EMP_261,30,Male,Divorced,Master's,Engineer,Sales,6,82540,3,4,0,Completed,Retirement,2,7,Active,1/5/2016,,N
+EMP_262,24,Male,Divorced,Master's,Manager,Engineering,18,70944,3,1,0,Completed,Involuntary,4,3,Active,6/22/2000,,N
+EMP_263,34,Female,Divorced,Doctorate,Manager,HR,5,69308,3,4,2,Completed,Voluntary,3,2,Active,1/3/2003,,N
+EMP_264,27,Other,Single,Master's,Finance,Management,4,42412,1,2,1,Completed,None,2,10,Active,1/27/2003,,N
+EMP_265,59,Female,Married,Bachelor's,IT Support,Management,11,86399,3,2,2,Completed,Voluntary,2,0,Terminated,1/4/2007,1/13/2009,Y
+EMP_266,42,Male,Married,Doctorate,Manager,Sales,11,57150,3,2,1,Not Completed,Voluntary,2,1,Resigned,12/18/2019,9/1/2023,Y
+EMP_267,40,Female,Single,High School,Finance,Engineering,9,101178,5,3,1,Completed,None,5,3,Active,8/4/2005,,N
+EMP_268,46,Other,Married,High School,Sales,HR,3,88763,5,2,0,Completed,Involuntary,4,8,Resigned,12/11/2019,12/27/2020,Y
+EMP_269,25,Female,Married,Master's,Manager,HR,11,105605,5,4,0,Not Completed,Voluntary,4,14,Active,5/6/2010,,N
+EMP_270,43,Male,Married,High School,HR,Management,2,61832,3,1,0,Not Completed,Voluntary,5,13,Resigned,8/27/2014,5/30/2020,Y
+EMP_271,26,Other,Single,High School,Engineer,Management,9,96562,5,2,1,Completed,None,2,0,Active,12/16/2005,,N
+EMP_272,22,Male,Divorced,Doctorate,Finance,Finance,10,99128,1,2,1,Completed,Voluntary,2,5,Active,8/18/2006,,N
+EMP_273,38,Male,Married,Bachelor's,Manager,Finance,11,96523,2,3,2,Completed,None,3,5,Active,11/10/2011,,N
+EMP_274,30,Other,Married,High School,Manager,Engineering,3,111453,5,4,0,Not Completed,Involuntary,2,9,Active,4/29/2016,,N
+EMP_275,30,Other,Divorced,High School,IT Support,Finance,17,37238,5,1,0,Completed,Voluntary,1,2,Active,3/30/2013,,N
+EMP_276,45,Male,Married,Bachelor's,Finance,HR,11,103866,1,4,1,Not Completed,None,2,9,Active,5/4/2017,,N
+EMP_277,31,Female,Married,Doctorate,HR,Finance,17,90930,4,2,0,Completed,Retirement,3,8,Terminated,4/30/2010,11/22/2018,Y
+EMP_278,41,Other,Divorced,Doctorate,Manager,Sales,19,35650,4,4,1,Not Completed,Involuntary,1,13,Terminated,4/12/2017,3/18/2025,Y
+EMP_279,38,Female,Single,High School,Sales,Sales,4,67264,1,1,2,Not Completed,Involuntary,3,9,Active,8/19/2004,,N
+EMP_280,34,Female,Single,Master's,Engineer,IT,2,79588,5,2,2,Not Completed,Voluntary,3,2,Resigned,10/17/2000,8/7/2004,Y
+EMP_281,50,Other,Married,Bachelor's,Finance,Management,14,47807,2,4,0,Completed,None,4,0,Terminated,10/6/2010,12/20/2019,Y
+EMP_282,57,Female,Married,Doctorate,Manager,Management,15,55712,5,1,2,Completed,Involuntary,5,1,Active,11/19/2003,,N
+EMP_283,44,Other,Divorced,High School,IT Support,Engineering,3,92915,1,2,0,Not Completed,None,3,14,Active,4/25/2015,,N
+EMP_284,48,Other,Divorced,Doctorate,IT Support,Sales,13,84826,1,2,0,Not Completed,None,2,14,Resigned,3/14/2017,10/31/2024,Y
+EMP_285,39,Other,Married,High School,Engineer,IT,13,57865,3,4,1,Not Completed,None,4,3,Active,7/16/2014,,N
+EMP_286,39,Other,Married,Bachelor's,Finance,Engineering,18,31145,1,3,1,Completed,None,1,3,Active,6/11/2005,,N
+EMP_287,30,Female,Single,Master's,Finance,Engineering,7,117499,3,3,0,Not Completed,None,5,1,Active,7/21/2001,,N
+EMP_288,24,Female,Single,Bachelor's,Finance,Finance,16,104836,1,1,2,Completed,Involuntary,4,9,Active,6/9/2015,,N
+EMP_289,28,Other,Single,Doctorate,HR,Management,16,116415,3,4,2,Completed,Involuntary,3,5,Terminated,2/26/2014,8/27/2017,Y
+EMP_290,36,Other,Single,Doctorate,Sales,Engineering,6,85651,3,1,0,Not Completed,Voluntary,4,14,Active,4/26/2008,,N
+EMP_291,51,Other,Divorced,Doctorate,IT Support,Engineering,6,36242,5,4,0,Not Completed,None,2,5,Resigned,6/3/2006,12/19/2008,Y
+EMP_292,30,Other,Single,Master's,Finance,Management,4,43832,3,1,2,Completed,None,2,2,Resigned,8/9/2008,6/20/2018,Y
+EMP_293,48,Male,Single,Bachelor's,HR,Management,3,94005,4,1,2,Completed,Voluntary,2,0,Active,4/22/2006,,N
+EMP_294,57,Female,Married,High School,Finance,Sales,1,89328,1,4,1,Completed,None,5,9,Resigned,11/4/2000,10/25/2009,Y
+EMP_295,39,Female,Single,Bachelor's,Finance,Management,3,109821,2,3,1,Not Completed,Retirement,4,8,Active,11/8/2005,,N
+EMP_296,52,Other,Married,Bachelor's,HR,Finance,19,104633,1,1,2,Completed,Involuntary,4,3,Active,1/5/2006,,N
+EMP_297,38,Male,Married,Master's,Sales,Sales,9,77852,5,4,1,Completed,Voluntary,3,8,Resigned,9/15/2019,5/28/2024,Y
+EMP_298,27,Male,Single,Bachelor's,Engineer,IT,14,31992,5,4,1,Not Completed,Involuntary,1,4,Active,4/6/2001,,N
+EMP_299,46,Male,Single,Doctorate,IT Support,Engineering,19,66890,3,4,0,Completed,None,2,6,Resigned,12/13/2012,12/23/2017,Y
+EMP_300,59,Other,Married,Master's,Manager,Finance,19,59394,5,2,1,Not Completed,Voluntary,1,2,Active,6/17/2010,,N
+EMP_301,59,Male,Divorced,Doctorate,Finance,Finance,13,79957,5,4,1,Not Completed,Involuntary,1,14,Resigned,12/15/2012,8/13/2022,Y
+EMP_302,52,Other,Married,Doctorate,Sales,Sales,16,113912,1,4,0,Not Completed,None,2,2,Active,10/7/2001,,N
+EMP_303,50,Male,Divorced,Bachelor's,IT Support,Engineering,8,95353,4,2,2,Not Completed,None,2,7,Active,8/18/2012,,N
+EMP_304,30,Other,Divorced,High School,Manager,Sales,16,53880,4,2,1,Not Completed,Retirement,3,0,Active,6/19/2016,,N
+EMP_305,22,Other,Single,Bachelor's,Finance,HR,9,115520,3,3,1,Not Completed,Retirement,5,7,Active,10/28/2003,,N
+EMP_306,37,Female,Single,High School,Manager,HR,9,109077,5,4,2,Not Completed,Voluntary,2,7,Active,12/12/2008,,N
+EMP_307,59,Other,Single,Master's,HR,Sales,3,58975,5,1,1,Not Completed,None,1,2,Active,9/25/2011,,N
+EMP_308,44,Male,Single,Master's,IT Support,Engineering,7,91616,4,2,2,Not Completed,None,3,0,Active,8/10/2010,,N
+EMP_309,29,Female,Married,Master's,Sales,Engineering,18,34010,3,2,0,Completed,None,4,8,Active,6/6/2011,,N
+EMP_310,33,Male,Divorced,Doctorate,Sales,Management,2,103811,5,3,2,Not Completed,Voluntary,3,3,Active,4/19/2004,,N
+EMP_311,31,Other,Married,Doctorate,IT Support,Finance,1,83510,3,3,2,Completed,Voluntary,2,6,Active,3/26/2002,,N
+EMP_312,37,Female,Divorced,Master's,Engineer,Sales,12,66088,1,3,2,Completed,Voluntary,2,8,Terminated,3/20/2005,9/15/2009,Y
+EMP_313,45,Other,Married,Bachelor's,Engineer,Finance,16,114425,5,4,0,Not Completed,Retirement,5,2,Terminated,5/30/2011,1/30/2014,Y
+EMP_314,29,Other,Divorced,Doctorate,Manager,Finance,12,70596,5,4,2,Not Completed,Voluntary,3,4,Active,9/21/2005,,N
+EMP_315,32,Male,Single,Doctorate,HR,HR,10,70653,5,4,2,Not Completed,None,2,9,Active,5/30/2013,,N
+EMP_316,47,Male,Divorced,Bachelor's,Manager,HR,9,62155,4,2,0,Completed,Retirement,1,10,Active,10/9/2008,,N
+EMP_317,28,Male,Single,Doctorate,Finance,IT,18,36349,4,3,1,Not Completed,Voluntary,1,12,Active,8/6/2010,,N
+EMP_318,36,Female,Divorced,Bachelor's,Sales,Sales,4,53347,5,2,1,Completed,None,3,2,Active,2/3/2003,,N
+EMP_319,36,Male,Married,High School,Manager,IT,8,98598,5,1,2,Completed,Voluntary,5,4,Active,11/8/2015,,N
+EMP_320,24,Other,Divorced,Bachelor's,Manager,Sales,4,99388,1,4,0,Completed,None,3,10,Active,10/18/2017,,N
+EMP_321,37,Female,Married,High School,IT Support,Engineering,16,92241,1,2,0,Not Completed,Involuntary,5,1,Active,8/17/2005,,N
+EMP_322,36,Male,Married,Doctorate,Sales,Sales,8,84142,3,1,2,Not Completed,Involuntary,1,3,Active,12/2/2004,,N
+EMP_323,46,Male,Single,High School,Sales,Engineering,7,43160,3,2,2,Completed,Voluntary,2,11,Active,5/7/2009,,N
+EMP_324,54,Male,Divorced,Bachelor's,Engineer,Engineering,13,111858,4,1,1,Completed,None,4,1,Resigned,10/20/2006,9/16/2010,Y
+EMP_325,35,Other,Married,High School,Engineer,Sales,8,95923,2,2,1,Completed,None,2,2,Resigned,1/14/2017,3/25/2019,Y
+EMP_326,45,Male,Divorced,Master's,Sales,Engineering,7,76891,1,2,2,Completed,Involuntary,1,14,Resigned,11/19/2001,8/27/2004,Y
+EMP_327,32,Other,Single,Bachelor's,Manager,Finance,5,102446,3,4,0,Not Completed,Voluntary,1,4,Active,6/25/2009,,N
+EMP_328,24,Female,Single,Bachelor's,Finance,Engineering,18,45758,1,2,2,Not Completed,None,2,8,Active,7/29/2001,,N
+EMP_329,30,Male,Divorced,High School,Manager,Finance,19,32003,1,2,0,Completed,Voluntary,2,2,Active,9/4/2013,,N
+EMP_330,27,Other,Married,Doctorate,Finance,Finance,10,55607,2,3,1,Completed,None,1,9,Active,8/10/2017,,N
+EMP_331,52,Male,Married,Doctorate,Sales,Finance,11,68513,1,2,2,Completed,None,2,5,Active,4/29/2014,,N
+EMP_332,37,Male,Married,Bachelor's,IT Support,Management,8,99083,2,4,0,Not Completed,None,4,3,Resigned,3/29/2008,11/2/2015,Y
+EMP_333,32,Female,Divorced,Bachelor's,Finance,IT,6,91781,2,2,1,Not Completed,None,4,3,Terminated,9/7/2010,10/29/2018,Y
+EMP_334,38,Female,Married,High School,Engineer,Management,11,55672,1,4,2,Completed,Voluntary,3,10,Resigned,6/6/2016,8/27/2017,Y
+EMP_335,24,Other,Married,Bachelor's,IT Support,Engineering,16,71819,1,3,2,Not Completed,Voluntary,4,12,Resigned,3/8/2013,1/30/2019,Y
+EMP_336,40,Other,Married,Bachelor's,Sales,IT,4,109992,3,4,1,Not Completed,Voluntary,1,14,Active,6/9/2019,,N
+EMP_337,45,Other,Single,Doctorate,HR,IT,2,95837,1,3,2,Completed,Voluntary,1,14,Resigned,10/31/2011,7/27/2017,Y
+EMP_338,29,Female,Married,Bachelor's,Finance,IT,13,61603,1,3,1,Not Completed,None,3,9,Terminated,12/5/2014,10/20/2018,Y
+EMP_339,57,Other,Divorced,High School,Finance,Sales,7,116081,1,3,0,Not Completed,Voluntary,5,9,Active,2/27/2015,,N
+EMP_340,23,Female,Divorced,Bachelor's,IT Support,Engineering,17,88265,3,3,2,Not Completed,None,3,12,Active,7/31/2017,,N
+EMP_341,44,Female,Married,Bachelor's,HR,Management,13,70478,2,3,1,Not Completed,None,5,4,Active,4/9/2019,,N
+EMP_342,51,Male,Divorced,Bachelor's,HR,IT,10,111714,3,4,1,Not Completed,Involuntary,5,14,Active,8/6/2010,,N
+EMP_343,46,Male,Divorced,Master's,Sales,IT,13,113752,1,3,0,Not Completed,Voluntary,2,10,Active,10/10/2007,,N
+EMP_344,28,Other,Married,Bachelor's,IT Support,HR,10,103778,5,3,2,Completed,Voluntary,4,6,Terminated,6/1/2008,10/30/2013,Y
+EMP_345,49,Female,Single,High School,Manager,IT,7,37496,1,3,1,Completed,Voluntary,5,10,Active,9/14/2012,,N
+EMP_346,38,Female,Married,Doctorate,HR,IT,10,116402,3,3,1,Completed,Involuntary,2,13,Active,11/30/2006,,N
+EMP_347,53,Female,Divorced,Doctorate,Finance,HR,16,58357,3,3,1,Not Completed,Involuntary,3,3,Active,7/13/2009,,N
+EMP_348,22,Male,Divorced,Master's,HR,Engineering,3,76252,4,1,2,Not Completed,Retirement,3,7,Active,7/10/2005,,N
+EMP_349,48,Female,Married,High School,Sales,Management,4,61212,5,2,2,Not Completed,None,5,11,Active,4/1/2009,,N
+EMP_350,57,Other,Divorced,Doctorate,Sales,Finance,4,35887,3,2,0,Completed,Involuntary,2,12,Resigned,12/29/2008,1/18/2010,Y
+EMP_351,28,Other,Single,Doctorate,Finance,Management,4,113398,2,3,0,Completed,Voluntary,1,8,Active,6/28/2008,,N
+EMP_352,24,Male,Married,Bachelor's,Finance,Engineering,16,64856,1,3,0,Not Completed,None,4,8,Terminated,5/11/2012,10/3/2016,Y
+EMP_353,51,Other,Divorced,Bachelor's,Finance,Management,9,36040,2,1,2,Not Completed,Involuntary,5,8,Active,11/17/2009,,N
+EMP_354,22,Female,Single,Bachelor's,Manager,HR,6,43440,3,3,1,Not Completed,Voluntary,1,1,Active,11/17/2002,,N
+EMP_355,55,Female,Divorced,Master's,Finance,IT,10,58371,3,1,2,Not Completed,None,4,2,Terminated,11/17/2012,10/20/2016,Y
+EMP_356,59,Other,Single,Bachelor's,IT Support,IT,4,49724,2,2,2,Not Completed,None,1,4,Terminated,3/27/2000,11/5/2003,Y
+EMP_357,57,Male,Divorced,High School,Sales,Finance,12,97879,2,4,2,Completed,None,2,11,Active,6/24/2008,,N
+EMP_358,54,Female,Married,Master's,Sales,Engineering,10,37188,4,2,0,Completed,Voluntary,5,0,Resigned,2/23/2017,1/23/2022,Y
+EMP_359,37,Female,Divorced,Doctorate,HR,IT,12,89580,1,4,1,Not Completed,Retirement,1,3,Active,3/1/2013,,N
+EMP_360,59,Male,Married,Doctorate,Finance,Engineering,19,75216,2,4,2,Completed,Voluntary,1,10,Active,9/5/2006,,N
+EMP_361,32,Female,Single,High School,Manager,Sales,19,102392,1,4,0,Not Completed,None,1,13,Active,10/14/2017,,N
+EMP_362,29,Other,Single,High School,IT Support,Finance,1,52044,5,3,2,Completed,Voluntary,5,13,Active,11/10/2016,,N
+EMP_363,22,Other,Divorced,Doctorate,Engineer,Engineering,4,40620,3,1,1,Not Completed,Voluntary,2,4,Active,8/27/2017,,N
+EMP_364,35,Male,Married,High School,HR,Management,13,50723,2,4,0,Not Completed,None,2,8,Active,7/1/2003,,N
+EMP_365,51,Male,Married,High School,IT Support,Management,8,71142,5,1,2,Not Completed,None,1,7,Active,7/11/2018,,N
+EMP_366,42,Other,Single,High School,Manager,Management,14,71503,3,2,0,Not Completed,None,2,0,Active,6/3/2001,,N
+EMP_367,42,Male,Single,Bachelor's,Finance,Management,16,119011,4,4,1,Completed,Voluntary,4,13,Active,8/14/2016,,N
+EMP_368,55,Other,Divorced,Doctorate,Manager,Engineering,2,60243,3,2,1,Not Completed,Involuntary,2,12,Resigned,2/26/2019,8/29/2027,Y
+EMP_369,59,Male,Single,High School,Engineer,HR,8,62860,2,1,0,Not Completed,None,1,11,Active,7/28/2018,,N
+EMP_370,47,Other,Single,High School,IT Support,Finance,13,97951,5,1,2,Not Completed,Retirement,4,2,Active,1/21/2001,,N
+EMP_371,35,Female,Married,Bachelor's,Manager,Management,1,34254,5,2,1,Not Completed,Voluntary,5,13,Terminated,4/19/2019,6/24/2022,Y
+EMP_372,56,Female,Married,Doctorate,Engineer,Engineering,12,106173,5,1,1,Completed,Voluntary,3,13,Active,1/14/2000,,N
+EMP_373,39,Other,Married,Master's,Engineer,IT,17,54510,3,2,2,Completed,None,2,2,Active,6/18/2011,,N
+EMP_374,41,Female,Single,Doctorate,IT Support,IT,7,102052,1,1,0,Completed,Retirement,4,10,Active,7/7/2009,,N
+EMP_375,30,Other,Divorced,Doctorate,Engineer,Engineering,16,99937,1,3,0,Not Completed,None,3,5,Active,10/16/2009,,N
+EMP_376,54,Male,Divorced,Doctorate,IT Support,Management,14,62122,3,2,2,Completed,Involuntary,5,3,Active,1/4/2000,,N
+EMP_377,25,Female,Single,Bachelor's,Manager,Sales,10,89317,2,4,1,Not Completed,Retirement,3,3,Resigned,5/27/2008,4/26/2016,Y
+EMP_378,25,Female,Divorced,Doctorate,Finance,Engineering,3,115209,3,4,1,Completed,None,5,0,Active,1/3/2009,,N
+EMP_379,37,Female,Single,Master's,Sales,Finance,12,59653,1,4,2,Completed,Involuntary,1,11,Active,1/7/2010,,N
+EMP_380,47,Other,Divorced,High School,Sales,Finance,8,73336,3,1,2,Not Completed,None,1,9,Active,5/23/2013,,N
+EMP_381,27,Female,Single,Doctorate,Manager,Sales,16,93328,5,2,0,Completed,Voluntary,5,12,Active,10/13/2010,,N
+EMP_382,58,Male,Married,Bachelor's,Finance,IT,1,50822,2,1,0,Not Completed,Voluntary,3,11,Resigned,10/21/2011,10/8/2020,Y
+EMP_383,43,Female,Divorced,Doctorate,Sales,IT,17,102403,2,4,2,Completed,None,2,10,Resigned,6/14/2014,3/30/2017,Y
+EMP_384,28,Male,Married,Doctorate,Engineer,Engineering,6,76944,4,3,1,Not Completed,None,3,3,Active,5/21/2004,,N
+EMP_385,51,Female,Married,Master's,Manager,Sales,1,66002,3,4,0,Not Completed,None,3,0,Resigned,1/10/2016,2/10/2019,Y
+EMP_386,31,Female,Divorced,Master's,Manager,Engineering,15,117917,5,4,2,Not Completed,Voluntary,2,14,Resigned,2/20/2013,10/30/2015,Y
+EMP_387,36,Male,Single,Bachelor's,HR,Engineering,13,47517,3,4,1,Not Completed,Voluntary,3,4,Active,3/19/2013,,N
+EMP_388,27,Female,Married,Bachelor's,HR,Sales,6,107366,4,3,0,Completed,None,3,12,Terminated,11/12/2016,10/23/2019,Y
+EMP_389,45,Male,Married,Bachelor's,HR,IT,13,40589,4,3,2,Not Completed,Voluntary,4,2,Resigned,11/17/2010,10/18/2012,Y
+EMP_390,23,Male,Single,Bachelor's,IT Support,HR,4,90117,3,2,2,Completed,None,5,12,Active,12/17/2006,,N
+EMP_391,36,Male,Single,Bachelor's,Finance,Management,1,89264,3,3,1,Not Completed,Voluntary,1,9,Active,6/30/2004,,N
+EMP_392,42,Female,Divorced,High School,Manager,Management,10,64830,3,2,1,Not Completed,None,5,4,Resigned,1/29/2004,11/21/2013,Y
+EMP_393,39,Female,Divorced,High School,HR,Management,4,89544,1,3,2,Not Completed,None,3,13,Active,1/13/2018,,N
+EMP_394,26,Male,Single,Bachelor's,Manager,Sales,13,34627,4,2,1,Not Completed,Voluntary,2,2,Resigned,1/15/2016,12/18/2020,Y
+EMP_395,46,Female,Married,Bachelor's,Engineer,Engineering,4,96004,2,4,2,Completed,None,2,4,Active,2/10/2011,,N
+EMP_396,57,Other,Single,High School,HR,Engineering,16,96880,1,3,1,Completed,Voluntary,1,3,Active,3/28/2014,,N
+EMP_397,31,Male,Divorced,Master's,Manager,Finance,9,55454,5,1,1,Not Completed,Voluntary,1,8,Active,12/14/2018,,N
+EMP_398,44,Male,Married,High School,Finance,Engineering,4,91806,2,1,0,Completed,Involuntary,1,13,Active,4/10/2017,,N
+EMP_399,45,Other,Married,Bachelor's,IT Support,IT,8,101634,2,2,0,Completed,Retirement,2,5,Active,10/18/2017,,N
+EMP_400,31,Other,Divorced,Master's,Finance,HR,4,62229,2,3,1,Not Completed,Involuntary,3,11,Resigned,6/17/2017,7/23/2020,Y
+EMP_401,27,Male,Married,Bachelor's,Finance,Management,9,51341,4,3,2,Completed,Retirement,1,14,Active,11/7/2008,,N
+EMP_402,34,Other,Single,Doctorate,HR,IT,11,45375,5,1,1,Not Completed,Voluntary,1,13,Active,4/19/2017,,N
+EMP_403,42,Male,Divorced,Master's,Finance,IT,5,82497,1,3,0,Not Completed,Voluntary,2,9,Active,8/22/2004,,N
+EMP_404,53,Female,Married,Bachelor's,IT Support,HR,9,79740,5,3,2,Completed,Retirement,3,1,Active,10/18/2003,,N
+EMP_405,36,Other,Divorced,High School,Sales,Management,8,95627,1,2,1,Completed,Retirement,1,0,Resigned,2/13/2013,12/19/2021,Y
+EMP_406,23,Male,Married,Bachelor's,IT Support,Sales,4,92515,4,4,1,Not Completed,None,3,0,Resigned,4/12/2003,12/8/2010,Y
+EMP_407,36,Male,Single,High School,Engineer,HR,1,31884,5,1,1,Not Completed,None,4,0,Active,4/4/2006,,N
+EMP_408,38,Male,Divorced,Master's,IT Support,IT,13,108968,2,4,1,Not Completed,None,1,8,Active,9/14/2002,,N
+EMP_409,41,Other,Married,High School,Manager,Engineering,5,115041,5,3,0,Completed,Involuntary,1,4,Active,12/27/2013,,N
+EMP_410,27,Female,Single,Master's,Sales,Management,10,109738,4,3,0,Not Completed,Voluntary,2,13,Active,12/3/2010,,N
+EMP_411,36,Female,Single,Bachelor's,HR,Finance,16,105767,4,2,0,Not Completed,None,4,3,Resigned,2/7/2008,3/22/2013,Y
+EMP_412,38,Other,Single,High School,Manager,HR,8,70720,4,4,0,Not Completed,None,4,9,Active,6/15/2003,,N
+EMP_413,47,Male,Married,Master's,IT Support,IT,12,39595,1,4,2,Not Completed,Retirement,4,4,Active,9/16/2015,,N
+EMP_414,43,Male,Married,Master's,Manager,Sales,3,115623,5,2,2,Not Completed,None,5,8,Active,12/8/2012,,N
+EMP_415,30,Male,Single,Master's,Finance,IT,4,100018,2,4,2,Completed,Involuntary,2,2,Terminated,6/9/2003,11/20/2008,Y
+EMP_416,33,Other,Single,Doctorate,Manager,Finance,17,64749,2,2,1,Completed,Voluntary,2,2,Terminated,8/10/2001,4/17/2011,Y
+EMP_417,43,Other,Single,Master's,Manager,Sales,13,43918,3,2,2,Completed,None,1,11,Terminated,3/20/2004,12/8/2013,Y
+EMP_418,44,Male,Single,Bachelor's,IT Support,Management,6,59984,4,3,0,Completed,Voluntary,2,1,Resigned,3/4/2002,12/18/2005,Y
+EMP_419,58,Male,Single,Bachelor's,Engineer,HR,3,45813,2,3,0,Completed,Involuntary,1,7,Resigned,9/21/2010,9/2/2014,Y
+EMP_420,35,Male,Married,Bachelor's,IT Support,Sales,14,34466,4,3,1,Not Completed,Involuntary,1,6,Resigned,5/4/2019,4/5/2029,Y
+EMP_421,45,Other,Divorced,Master's,HR,Finance,7,64999,2,2,2,Completed,Involuntary,5,1,Resigned,8/30/2014,7/9/2020,Y
+EMP_422,29,Other,Divorced,Bachelor's,Sales,IT,3,88115,5,3,1,Not Completed,Retirement,2,3,Terminated,7/4/2015,9/24/2023,Y
+EMP_423,47,Female,Divorced,Master's,Finance,Finance,6,117701,3,1,1,Completed,Voluntary,2,6,Active,12/7/2017,,N
+EMP_424,53,Male,Married,Master's,Engineer,Engineering,13,71164,4,1,2,Completed,None,5,0,Active,4/21/2017,,N
+EMP_425,49,Male,Divorced,Master's,Sales,Sales,14,108777,1,3,1,Not Completed,None,5,0,Active,7/13/2005,,N
+EMP_426,53,Female,Divorced,Doctorate,Sales,HR,15,108648,1,2,2,Completed,Involuntary,2,7,Active,4/28/2000,,N
+EMP_427,43,Male,Divorced,High School,Engineer,HR,16,104919,2,1,2,Completed,Voluntary,2,5,Resigned,4/28/2003,8/23/2007,Y
+EMP_428,30,Female,Divorced,Bachelor's,Finance,IT,1,49699,5,3,1,Not Completed,Voluntary,1,1,Resigned,9/5/2001,7/23/2010,Y
+EMP_429,24,Other,Single,Doctorate,HR,IT,15,41481,4,1,0,Completed,None,3,9,Active,10/26/2017,,N
+EMP_430,46,Female,Married,Bachelor's,Engineer,IT,7,100711,3,1,2,Completed,Involuntary,1,9,Active,7/17/2012,,N
+EMP_431,33,Female,Divorced,Doctorate,Engineer,Engineering,9,113518,5,1,0,Completed,Voluntary,4,14,Terminated,9/5/2016,11/8/2022,Y
+EMP_432,50,Other,Single,High School,Engineer,Finance,15,61334,2,4,0,Not Completed,Involuntary,4,0,Active,3/26/2014,,N
+EMP_433,24,Male,Divorced,High School,Finance,IT,14,89252,5,1,2,Completed,Retirement,3,2,Active,2/4/2012,,N
+EMP_434,44,Female,Divorced,High School,Engineer,Sales,19,113462,3,3,0,Completed,None,5,11,Resigned,8/5/2011,1/16/2017,Y
+EMP_435,44,Female,Divorced,High School,Engineer,IT,18,38333,5,1,1,Not Completed,None,4,3,Active,7/5/2009,,N
+EMP_436,39,Male,Divorced,Master's,Manager,Finance,9,109996,4,3,1,Completed,None,5,12,Active,1/10/2009,,N
+EMP_437,32,Female,Divorced,Bachelor's,Manager,Sales,1,95625,2,1,0,Not Completed,Voluntary,5,4,Active,7/13/2003,,N
+EMP_438,57,Other,Single,Bachelor's,Manager,Sales,12,50790,3,1,1,Not Completed,None,1,10,Active,7/8/2006,,N
+EMP_439,47,Female,Divorced,Bachelor's,Manager,Sales,10,35490,2,4,2,Not Completed,Voluntary,5,9,Active,8/11/2000,,N
+EMP_440,29,Male,Single,Master's,Engineer,Finance,7,78055,4,1,2,Not Completed,Retirement,3,2,Active,10/11/2012,,N
+EMP_441,49,Male,Divorced,Bachelor's,Manager,IT,14,107240,3,3,0,Completed,Retirement,1,14,Active,9/24/2007,,N
+EMP_442,39,Female,Married,High School,Sales,Finance,1,47593,3,4,1,Completed,Voluntary,3,14,Active,4/2/2008,,N
+EMP_443,34,Male,Single,Bachelor's,HR,Finance,15,67746,2,4,0,Not Completed,Involuntary,5,12,Resigned,7/20/2015,2/11/2025,Y
+EMP_444,57,Male,Divorced,Bachelor's,Manager,Management,1,65992,5,1,1,Completed,None,4,13,Active,3/25/2007,,N
+EMP_445,33,Female,Single,Doctorate,Finance,Finance,13,67624,5,1,2,Completed,Voluntary,5,4,Active,6/5/2013,,N
+EMP_446,43,Female,Divorced,Master's,HR,Engineering,2,119713,1,2,1,Completed,Involuntary,3,11,Active,9/13/2002,,N
+EMP_447,23,Male,Divorced,High School,IT Support,Management,3,52623,1,1,1,Not Completed,None,2,6,Active,6/15/2016,,N
+EMP_448,49,Female,Single,High School,IT Support,Sales,4,30148,3,2,0,Completed,Retirement,2,10,Active,10/20/2002,,N
+EMP_449,34,Other,Divorced,High School,Sales,IT,16,45263,2,3,2,Not Completed,None,4,8,Active,3/23/2004,,N
+EMP_450,54,Female,Divorced,Bachelor's,HR,HR,12,54449,3,1,1,Not Completed,None,3,4,Terminated,3/6/2019,2/27/2027,Y
+EMP_451,24,Male,Divorced,High School,HR,IT,4,119619,2,1,2,Completed,Voluntary,4,3,Terminated,6/26/2003,12/30/2004,Y
+EMP_452,55,Other,Divorced,High School,Sales,Management,12,80577,4,2,1,Completed,Voluntary,1,9,Active,11/14/2004,,N
+EMP_453,44,Male,Divorced,Doctorate,IT Support,Management,7,72314,1,2,2,Not Completed,None,5,10,Active,8/27/2004,,N
+EMP_454,53,Male,Divorced,Bachelor's,Manager,Sales,3,43538,3,4,1,Not Completed,None,1,12,Active,10/5/2010,,N
+EMP_455,41,Other,Single,Doctorate,Sales,Finance,5,81787,4,4,2,Not Completed,Voluntary,2,8,Active,2/12/2006,,N
+EMP_456,49,Female,Married,Master's,Finance,Finance,12,97899,5,1,1,Completed,Involuntary,5,7,Resigned,11/23/2011,10/15/2017,Y
+EMP_457,29,Male,Divorced,Bachelor's,Sales,Management,12,95246,1,3,2,Not Completed,Involuntary,1,4,Active,10/3/2008,,N
+EMP_458,24,Female,Single,Doctorate,Engineer,Finance,7,57508,2,4,1,Completed,None,2,8,Resigned,8/25/2008,12/13/2013,Y
+EMP_459,51,Female,Married,Master's,IT Support,Management,12,98643,5,4,1,Completed,Involuntary,1,10,Terminated,9/30/2019,2/15/2023,Y
+EMP_460,46,Other,Single,Doctorate,Engineer,IT,2,35628,5,4,2,Completed,None,5,13,Active,11/27/2010,,N
+EMP_461,51,Male,Married,Master's,IT Support,HR,14,96987,4,2,0,Completed,None,1,8,Active,3/10/2016,,N
+EMP_462,50,Other,Married,High School,IT Support,IT,16,71409,3,1,1,Not Completed,None,5,0,Active,10/20/2002,,N
+EMP_463,51,Other,Married,High School,HR,HR,7,45180,3,2,1,Not Completed,None,1,11,Active,6/29/2017,,N
+EMP_464,55,Male,Single,Bachelor's,Manager,Sales,4,42377,4,3,0,Not Completed,Involuntary,4,5,Terminated,5/11/2019,9/17/2024,Y
+EMP_465,46,Male,Married,Doctorate,Manager,Engineering,5,73548,5,2,1,Not Completed,Voluntary,1,10,Active,11/10/2016,,N
+EMP_466,38,Other,Divorced,Doctorate,IT Support,Engineering,14,85003,1,1,2,Not Completed,Retirement,1,4,Active,7/6/2010,,N
+EMP_467,45,Other,Divorced,Master's,IT Support,IT,9,82100,5,2,0,Not Completed,Involuntary,4,5,Resigned,4/5/2002,6/13/2010,Y
+EMP_468,59,Other,Married,Bachelor's,Engineer,Finance,5,50319,4,3,1,Not Completed,Involuntary,2,9,Active,6/29/2007,,N
+EMP_469,49,Male,Married,High School,Finance,Engineering,2,60685,5,1,2,Completed,None,5,2,Active,4/29/2009,,N
+EMP_470,54,Male,Divorced,Doctorate,Sales,HR,5,53214,5,1,2,Not Completed,Involuntary,3,13,Active,8/6/2007,,N
+EMP_471,57,Other,Single,Master's,IT Support,Sales,3,82861,5,1,0,Completed,None,2,2,Active,9/6/2012,,N
+EMP_472,28,Male,Single,High School,IT Support,HR,10,113209,5,1,0,Completed,Involuntary,5,9,Active,5/6/2001,,N
+EMP_473,44,Male,Divorced,High School,Sales,Management,8,79655,1,3,0,Not Completed,Voluntary,1,4,Active,2/2/2005,,N
+EMP_474,47,Male,Single,High School,Sales,Finance,10,87103,2,1,2,Not Completed,Involuntary,2,6,Active,5/28/2006,,N
+EMP_475,35,Female,Single,Master's,Finance,Finance,2,114067,2,3,1,Not Completed,None,1,3,Active,2/20/2017,,N
+EMP_476,49,Female,Married,Master's,Finance,Engineering,14,39657,3,3,2,Not Completed,None,2,5,Active,8/14/2001,,N
+EMP_477,45,Other,Single,High School,Sales,Management,4,34520,2,2,2,Completed,Voluntary,2,4,Terminated,6/27/2007,2/22/2012,Y
+EMP_478,28,Female,Divorced,Master's,IT Support,Engineering,12,66484,2,2,0,Completed,Involuntary,3,1,Active,11/9/2018,,N
+EMP_479,57,Other,Single,High School,IT Support,Engineering,14,59577,2,1,1,Completed,None,4,12,Active,2/1/2004,,N
+EMP_480,36,Other,Married,High School,Sales,Engineering,16,77599,5,4,2,Completed,Voluntary,2,10,Terminated,8/5/2002,11/9/2006,Y
+EMP_481,24,Male,Divorced,High School,IT Support,Management,5,60558,5,4,0,Not Completed,Voluntary,1,11,Terminated,4/24/2004,2/7/2013,Y
+EMP_482,23,Other,Divorced,Master's,Finance,Engineering,16,31210,1,1,0,Completed,Voluntary,3,0,Resigned,11/13/2001,10/30/2008,Y
+EMP_483,28,Other,Divorced,Bachelor's,Sales,Finance,4,93807,5,3,1,Completed,Retirement,2,5,Active,9/20/2001,,N
+EMP_484,37,Other,Married,Bachelor's,Finance,Engineering,3,103594,5,2,1,Not Completed,Involuntary,4,4,Active,12/3/2015,,N
+EMP_485,42,Other,Divorced,Master's,IT Support,Management,1,82972,2,1,0,Not Completed,Voluntary,1,8,Active,11/1/2012,,N
+EMP_486,30,Male,Married,Doctorate,IT Support,Management,4,73304,1,1,1,Not Completed,None,3,11,Resigned,4/9/2012,2/15/2015,Y
+EMP_487,33,Male,Married,Master's,HR,HR,9,106999,1,3,1,Completed,Voluntary,5,6,Active,8/12/2015,,N
+EMP_488,50,Other,Single,Doctorate,Engineer,Engineering,1,32843,2,2,2,Not Completed,None,4,0,Active,12/30/2012,,N
+EMP_489,45,Female,Divorced,High School,Engineer,Management,16,109871,2,4,1,Not Completed,Retirement,5,12,Active,2/18/2006,,N
+EMP_490,54,Female,Single,Doctorate,Finance,IT,3,49834,1,4,0,Completed,Involuntary,5,9,Active,4/12/2010,,N
+EMP_491,35,Other,Single,High School,Sales,Engineering,6,82670,4,1,1,Not Completed,Voluntary,3,5,Active,4/10/2000,,N
+EMP_492,39,Male,Married,Bachelor's,Engineer,Sales,13,102180,2,1,2,Completed,None,3,10,Resigned,12/29/2002,8/3/2006,Y
+EMP_493,26,Other,Single,High School,IT Support,Finance,17,115780,2,1,1,Not Completed,Involuntary,3,6,Resigned,6/29/2014,11/2/2019,Y
+EMP_494,36,Other,Single,Doctorate,Manager,Finance,15,113064,1,1,2,Not Completed,Involuntary,5,2,Active,10/27/2006,,N
+EMP_495,28,Male,Single,Bachelor's,Sales,IT,12,82278,4,1,1,Not Completed,Retirement,1,13,Resigned,4/30/2010,9/28/2011,Y
+EMP_496,46,Female,Divorced,Bachelor's,Finance,Engineering,8,70428,4,4,1,Not Completed,None,3,8,Active,3/8/2001,,N
+EMP_497,35,Other,Single,Master's,IT Support,Finance,16,95553,3,1,0,Completed,Voluntary,4,10,Active,8/9/2014,,N
+EMP_498,57,Male,Married,Doctorate,IT Support,Finance,3,101535,4,2,0,Completed,Voluntary,3,13,Active,6/20/2001,,N
+EMP_499,56,Male,Divorced,Doctorate,Manager,Sales,4,113576,2,3,1,Completed,Voluntary,3,13,Active,8/23/2001,,N
+EMP_500,45,Other,Married,Master's,Finance,Finance,7,107933,5,4,1,Not Completed,None,3,10,Active,7/24/2004,,N
+EMP_501,36,Male,Divorced,Master's,Sales,Finance,15,75386,1,3,2,Completed,Retirement,5,1,Active,7/18/2007,,N
+EMP_502,32,Other,Divorced,Bachelor's,IT Support,Management,11,64055,2,3,2,Completed,None,1,0,Terminated,11/14/2000,5/23/2004,Y
+EMP_503,45,Female,Divorced,Master's,HR,Finance,16,46651,1,1,0,Not Completed,None,3,9,Terminated,6/8/2017,7/10/2021,Y
+EMP_504,32,Other,Married,Bachelor's,IT Support,Engineering,14,63202,4,3,1,Completed,None,5,9,Active,11/18/2017,,N
+EMP_505,38,Female,Single,Doctorate,HR,Finance,13,81187,1,2,1,Completed,Involuntary,4,11,Active,7/12/2013,,N
+EMP_506,27,Male,Divorced,Master's,HR,Engineering,9,65265,2,1,2,Completed,Involuntary,1,8,Active,2/5/2005,,N
+EMP_507,42,Other,Married,Doctorate,Sales,Finance,18,69208,5,4,1,Not Completed,None,5,6,Active,3/21/2010,,N
+EMP_508,29,Male,Divorced,Bachelor's,Sales,Engineering,3,68805,2,2,1,Completed,Voluntary,2,9,Active,3/7/2004,,N
+EMP_509,36,Other,Single,High School,Manager,Finance,5,70574,3,4,1,Not Completed,Involuntary,4,12,Active,3/11/2000,,N
+EMP_510,53,Male,Divorced,High School,IT Support,IT,2,82360,1,1,2,Not Completed,Voluntary,4,10,Active,5/15/2014,,N
+EMP_511,31,Female,Married,Doctorate,Sales,Engineering,17,74938,2,1,2,Completed,None,2,0,Active,3/19/2001,,N
+EMP_512,49,Other,Divorced,Bachelor's,Sales,Finance,16,119084,4,4,2,Completed,Involuntary,5,3,Active,11/7/2012,,N
+EMP_513,36,Male,Married,Bachelor's,Manager,Sales,13,78524,4,3,1,Completed,Voluntary,5,9,Resigned,1/21/2001,2/9/2005,Y
+EMP_514,33,Other,Single,High School,Manager,Management,11,77515,2,4,2,Not Completed,None,4,12,Resigned,11/13/2016,10/26/2019,Y
+EMP_515,39,Other,Single,Bachelor's,IT Support,Management,8,118383,3,2,0,Completed,Voluntary,5,2,Active,7/15/2015,,N
+EMP_516,58,Female,Divorced,Bachelor's,Finance,Management,5,101231,1,3,0,Not Completed,None,2,10,Active,3/23/2014,,N
+EMP_517,45,Male,Single,Doctorate,Engineer,Management,2,109173,3,1,2,Completed,Involuntary,5,6,Terminated,2/12/2005,4/26/2008,Y
+EMP_518,58,Other,Married,High School,IT Support,Sales,4,109414,5,2,2,Not Completed,None,4,4,Active,9/22/2012,,N
+EMP_519,50,Other,Divorced,Bachelor's,Engineer,IT,3,34886,2,2,1,Completed,Involuntary,5,8,Active,7/4/2005,,N
+EMP_520,31,Other,Married,Doctorate,Finance,IT,2,33771,3,1,2,Not Completed,None,1,10,Active,12/31/2007,,N
+EMP_521,35,Other,Divorced,Master's,HR,Sales,3,89070,5,3,2,Not Completed,None,2,2,Active,1/6/2015,,N
+EMP_522,37,Other,Married,High School,IT Support,Finance,16,68672,3,1,0,Not Completed,None,2,10,Active,3/5/2009,,N
+EMP_523,58,Male,Divorced,Doctorate,Sales,Sales,9,76686,5,2,0,Completed,None,3,5,Active,10/6/2000,,N
+EMP_524,32,Other,Married,Master's,Manager,Management,6,77193,4,2,0,Not Completed,Voluntary,5,9,Active,2/9/2002,,N
+EMP_525,47,Other,Married,Bachelor's,IT Support,IT,15,110630,4,2,0,Not Completed,None,2,1,Resigned,3/25/2015,6/14/2021,Y
+EMP_526,40,Other,Divorced,Bachelor's,Manager,HR,5,115432,2,1,2,Not Completed,None,5,2,Active,8/11/2002,,N
+EMP_527,39,Male,Married,Master's,HR,Finance,9,74765,3,4,0,Completed,None,1,3,Active,2/11/2012,,N
+EMP_528,51,Other,Single,Doctorate,Manager,Engineering,6,76346,4,2,1,Not Completed,None,4,5,Active,4/8/2004,,N
+EMP_529,53,Other,Married,Bachelor's,HR,IT,3,54487,1,2,1,Not Completed,Voluntary,4,10,Active,3/18/2018,,N
+EMP_530,44,Female,Divorced,Bachelor's,Finance,Management,13,107111,4,3,2,Completed,None,3,0,Active,11/2/2006,,N
+EMP_531,33,Female,Single,Doctorate,HR,IT,15,113764,4,4,1,Not Completed,Voluntary,3,14,Active,6/8/2009,,N
+EMP_532,34,Other,Single,Doctorate,Engineer,Management,11,33924,3,3,0,Completed,None,2,14,Active,3/21/2009,,N
+EMP_533,42,Other,Married,Master's,IT Support,Management,16,78469,5,2,0,Completed,Involuntary,2,5,Active,9/17/2009,,N
+EMP_534,42,Female,Married,Bachelor's,HR,IT,15,75938,1,4,1,Completed,Voluntary,2,3,Resigned,2/12/2019,4/18/2021,Y
+EMP_535,50,Male,Married,Doctorate,IT Support,IT,6,51265,1,3,2,Completed,None,1,7,Resigned,9/6/2006,1/25/2012,Y
+EMP_536,50,Male,Single,High School,Finance,IT,14,46918,5,1,0,Not Completed,None,3,8,Active,4/18/2000,,N
+EMP_537,48,Female,Single,Master's,HR,Sales,11,70345,3,3,0,Completed,None,3,7,Active,3/12/2012,,N
+EMP_538,50,Other,Single,Master's,Finance,IT,10,101266,4,4,1,Not Completed,None,4,7,Terminated,8/13/2002,4/2/2007,Y
+EMP_539,36,Female,Divorced,Master's,Engineer,Engineering,16,38476,5,3,2,Completed,None,3,12,Active,5/19/2019,,N
+EMP_540,33,Male,Divorced,Master's,Sales,Finance,12,70755,1,4,2,Not Completed,None,3,12,Terminated,3/14/2009,4/10/2010,Y
+EMP_541,40,Female,Married,High School,Finance,Management,7,40861,1,4,1,Not Completed,Voluntary,1,1,Active,7/21/2009,,N
+EMP_542,33,Male,Divorced,Master's,Sales,IT,7,91130,4,3,0,Not Completed,None,2,13,Active,11/13/2000,,N
+EMP_543,44,Other,Divorced,Master's,Finance,Engineering,18,99677,4,3,1,Not Completed,None,1,9,Active,12/6/2000,,N
+EMP_544,26,Other,Married,Doctorate,HR,HR,15,70704,2,1,1,Not Completed,None,5,1,Resigned,11/19/2014,6/22/2019,Y
+EMP_545,47,Other,Married,Bachelor's,Sales,IT,6,92910,5,3,1,Completed,None,4,5,Active,3/2/2012,,N
+EMP_546,31,Male,Single,Master's,Finance,Sales,19,59839,4,4,0,Not Completed,Retirement,4,14,Resigned,9/5/2005,8/25/2007,Y
+EMP_547,43,Female,Single,Doctorate,IT Support,Management,8,87405,2,2,0,Not Completed,Involuntary,4,4,Resigned,9/29/2001,11/4/2007,Y
+EMP_548,44,Other,Married,Doctorate,Finance,Engineering,15,117781,3,3,1,Not Completed,None,2,5,Active,4/23/2012,,N
+EMP_549,32,Male,Married,Bachelor's,Sales,IT,4,84353,1,3,2,Completed,Involuntary,2,8,Active,9/7/2017,,N
+EMP_550,49,Other,Divorced,Doctorate,IT Support,Engineering,18,48767,5,4,1,Completed,None,2,11,Active,7/19/2015,,N
+EMP_551,52,Female,Divorced,Doctorate,Finance,Management,13,87554,3,2,0,Completed,Involuntary,4,9,Active,3/21/2012,,N
+EMP_552,29,Other,Divorced,Master's,Sales,Engineering,1,114367,5,1,2,Completed,None,4,6,Resigned,7/18/2006,1/11/2013,Y
+EMP_553,49,Male,Married,Master's,Engineer,Engineering,8,115189,5,2,2,Completed,None,4,4,Active,9/19/2018,,N
+EMP_554,37,Male,Married,Doctorate,Manager,IT,19,38568,4,4,0,Completed,None,5,9,Active,1/6/2015,,N
+EMP_555,52,Other,Single,High School,Engineer,IT,17,72145,2,4,0,Not Completed,Retirement,5,6,Active,12/2/2010,,N
+EMP_556,37,Other,Divorced,Bachelor's,Sales,Finance,10,57855,5,4,1,Completed,Involuntary,4,7,Resigned,9/8/2013,2/23/2022,Y
+EMP_557,26,Male,Single,Doctorate,HR,Sales,1,82650,3,4,0,Not Completed,None,2,10,Active,3/20/2014,,N
+EMP_558,56,Other,Married,Doctorate,HR,Finance,1,44379,5,2,2,Not Completed,None,2,11,Terminated,9/28/2008,9/20/2015,Y
+EMP_559,46,Other,Divorced,High School,Manager,Sales,5,98383,2,2,1,Not Completed,Voluntary,5,0,Resigned,10/11/2010,5/15/2020,Y
+EMP_560,34,Other,Single,Bachelor's,Sales,Sales,1,119578,1,2,1,Not Completed,Voluntary,5,9,Resigned,9/21/2011,2/20/2013,Y
+EMP_561,50,Female,Married,Doctorate,IT Support,Finance,13,53830,5,3,2,Not Completed,Voluntary,4,10,Active,2/9/2019,,N
+EMP_562,48,Female,Single,Doctorate,Finance,Management,9,54467,3,4,0,Not Completed,None,4,10,Active,6/24/2006,,N
+EMP_563,38,Female,Divorced,Master's,Engineer,Engineering,16,88130,1,3,1,Completed,None,2,6,Active,3/21/2008,,N
+EMP_564,58,Other,Single,Doctorate,IT Support,HR,8,63500,1,3,2,Not Completed,None,3,3,Active,11/2/2012,,N
+EMP_565,59,Male,Single,High School,Engineer,Finance,14,84215,4,3,2,Completed,Retirement,2,4,Resigned,7/15/2019,8/8/2024,Y
+EMP_566,50,Other,Married,Doctorate,Manager,Finance,17,91212,4,1,2,Not Completed,Involuntary,2,12,Active,4/14/2004,,N
+EMP_567,55,Other,Divorced,Bachelor's,Manager,Management,4,53620,5,3,0,Not Completed,None,4,1,Active,3/3/2002,,N
+EMP_568,51,Female,Single,Bachelor's,Manager,Engineering,7,75577,3,4,0,Not Completed,Voluntary,3,9,Active,2/21/2010,,N
+EMP_569,52,Male,Married,High School,IT Support,IT,17,89999,4,3,0,Not Completed,Involuntary,3,4,Active,7/28/2006,,N
+EMP_570,43,Female,Divorced,Doctorate,IT Support,Finance,16,54195,2,4,0,Completed,Involuntary,4,8,Active,12/20/2000,,N
+EMP_571,46,Male,Married,Doctorate,Manager,HR,14,74254,2,1,2,Completed,Voluntary,1,0,Active,7/3/2011,,N
+EMP_572,25,Other,Divorced,Doctorate,IT Support,Engineering,16,94383,1,2,1,Completed,Involuntary,4,2,Active,8/31/2010,,N
+EMP_573,56,Other,Married,Doctorate,Manager,Finance,2,58222,1,4,2,Completed,Voluntary,5,3,Active,5/10/2012,,N
+EMP_574,30,Other,Married,Doctorate,IT Support,IT,15,34619,1,3,1,Not Completed,Voluntary,3,8,Active,12/31/2010,,N
+EMP_575,47,Male,Married,Bachelor's,Manager,Finance,11,106039,2,4,1,Not Completed,Involuntary,4,1,Active,12/20/2012,,N
+EMP_576,48,Female,Single,Master's,Finance,IT,13,62287,4,3,1,Completed,None,2,6,Active,3/2/2006,,N
+EMP_577,48,Female,Single,Bachelor's,Finance,Sales,4,88928,4,2,0,Not Completed,Voluntary,2,8,Resigned,7/18/2001,1/15/2009,Y
+EMP_578,39,Female,Married,Master's,Engineer,Sales,1,82158,5,4,2,Not Completed,Involuntary,2,11,Resigned,6/15/2009,9/7/2012,Y
+EMP_579,51,Male,Divorced,Bachelor's,Engineer,Finance,15,50428,3,3,1,Completed,Voluntary,4,9,Active,7/26/2003,,N
+EMP_580,52,Male,Married,High School,Manager,Management,12,96746,2,4,2,Completed,Retirement,1,3,Active,5/3/2017,,N
+EMP_581,24,Other,Single,Doctorate,Engineer,Sales,9,41606,1,2,0,Not Completed,None,5,4,Active,10/16/2004,,N
+EMP_582,50,Female,Divorced,Master's,IT Support,Finance,7,81138,3,2,1,Completed,None,2,11,Resigned,2/3/2007,2/26/2011,Y
+EMP_583,28,Male,Single,Bachelor's,Manager,IT,3,119393,1,2,0,Not Completed,None,4,11,Resigned,9/14/2000,8/26/2010,Y
+EMP_584,39,Female,Married,Master's,Finance,Engineering,16,48132,3,4,0,Not Completed,Voluntary,1,11,Active,1/22/2018,,N
+EMP_585,37,Female,Single,Doctorate,HR,IT,4,111094,3,4,2,Not Completed,Voluntary,3,9,Terminated,5/14/2004,4/8/2011,Y
+EMP_586,53,Male,Single,High School,Finance,HR,14,79909,4,3,1,Not Completed,Voluntary,3,3,Active,1/12/2017,,N
+EMP_587,59,Male,Single,Doctorate,Sales,Sales,13,96454,5,2,0,Not Completed,None,5,11,Active,11/12/2002,,N
+EMP_588,46,Other,Married,Bachelor's,Finance,Finance,19,55695,5,3,2,Not Completed,None,4,6,Terminated,3/13/2018,2/14/2022,Y
+EMP_589,53,Other,Single,Bachelor's,Sales,Sales,2,38897,1,4,1,Not Completed,Voluntary,4,7,Active,2/10/2006,,N
+EMP_590,40,Other,Married,Master's,Engineer,IT,10,117974,2,1,1,Completed,Voluntary,2,7,Active,2/7/2007,,N
+EMP_591,24,Female,Married,High School,Finance,IT,19,51313,5,2,0,Completed,Involuntary,1,14,Resigned,3/1/2011,6/22/2015,Y
+EMP_592,56,Female,Single,High School,HR,Engineering,15,98397,2,3,0,Completed,Voluntary,5,13,Active,10/24/2009,,N
+EMP_593,50,Other,Divorced,Bachelor's,IT Support,Management,7,83646,1,2,0,Completed,None,1,13,Resigned,6/28/2004,9/24/2006,Y
+EMP_594,32,Female,Single,Master's,Finance,Finance,15,64575,2,3,0,Completed,Retirement,5,14,Active,9/7/2004,,N
+EMP_595,27,Female,Single,Doctorate,IT Support,Engineering,17,98185,3,3,1,Not Completed,None,4,2,Active,2/18/2000,,N
+EMP_596,40,Female,Single,Doctorate,Finance,HR,16,34423,3,1,0,Not Completed,Involuntary,4,1,Active,6/16/2000,,N
+EMP_597,58,Female,Divorced,Bachelor's,Finance,Finance,17,72580,1,4,0,Completed,Voluntary,5,5,Active,1/27/2005,,N
+EMP_598,48,Male,Divorced,Bachelor's,IT Support,HR,16,94806,2,2,0,Not Completed,Retirement,1,11,Resigned,7/21/2010,1/15/2018,Y
+EMP_599,26,Male,Married,Doctorate,IT Support,Management,18,65210,2,4,1,Completed,None,3,0,Resigned,3/30/2010,8/17/2017,Y
+EMP_600,47,Other,Divorced,Doctorate,Manager,Finance,17,103175,1,3,2,Not Completed,Involuntary,3,11,Active,8/30/2005,,N
+EMP_601,56,Other,Divorced,Doctorate,Finance,Finance,4,32595,5,4,2,Not Completed,Retirement,2,8,Active,1/26/2001,,N
+EMP_602,40,Female,Single,Master's,Finance,Engineering,2,117057,4,1,1,Not Completed,None,2,6,Resigned,1/29/2008,2/8/2012,Y
+EMP_603,38,Female,Married,High School,HR,Sales,17,75974,5,4,2,Completed,Voluntary,1,7,Resigned,4/21/2014,9/8/2022,Y
+EMP_604,56,Male,Married,Bachelor's,IT Support,Finance,17,75132,4,3,1,Not Completed,Retirement,4,6,Resigned,10/1/2015,6/11/2020,Y
+EMP_605,34,Female,Divorced,Bachelor's,IT Support,Management,2,99611,2,3,0,Completed,Involuntary,1,4,Active,12/11/2015,,N
+EMP_606,35,Female,Divorced,Master's,Sales,Finance,2,105177,4,1,2,Not Completed,None,5,4,Active,12/20/2003,,N
+EMP_607,51,Other,Single,Doctorate,Sales,Finance,15,115862,4,2,1,Completed,Voluntary,3,6,Resigned,8/16/2000,4/12/2009,Y
+EMP_608,38,Female,Divorced,Master's,IT Support,Finance,16,64539,2,1,1,Completed,None,2,6,Resigned,10/10/2016,1/1/2019,Y
+EMP_609,58,Male,Divorced,Doctorate,HR,Finance,11,84827,3,2,0,Completed,Voluntary,1,1,Active,11/26/2008,,N
+EMP_610,36,Female,Married,Bachelor's,Engineer,Management,2,80169,4,3,1,Not Completed,Voluntary,1,1,Active,12/17/2000,,N
+EMP_611,39,Female,Divorced,High School,Finance,Engineering,8,91568,1,4,2,Not Completed,None,5,6,Active,3/22/2006,,N
+EMP_612,35,Female,Single,Master's,Engineer,Sales,12,55094,5,3,0,Not Completed,None,4,4,Resigned,1/20/2011,12/5/2012,Y
+EMP_613,35,Female,Married,Doctorate,HR,Management,14,114271,2,1,1,Not Completed,None,4,1,Resigned,8/21/2000,11/1/2004,Y
+EMP_614,54,Female,Married,Bachelor's,Engineer,Management,14,72095,2,1,0,Completed,Retirement,3,14,Resigned,9/22/2000,6/26/2002,Y
+EMP_615,59,Male,Divorced,High School,Sales,HR,12,114692,4,4,1,Not Completed,Retirement,2,0,Active,5/7/2002,,N
+EMP_616,32,Other,Single,Master's,Manager,Sales,2,39007,3,1,2,Completed,None,4,8,Active,9/5/2017,,N
+EMP_617,32,Female,Married,Master's,Engineer,Engineering,14,80125,3,3,2,Completed,Involuntary,4,10,Resigned,5/13/2001,8/23/2009,Y
+EMP_618,47,Other,Single,Bachelor's,Manager,IT,12,72922,5,4,0,Not Completed,Voluntary,4,7,Active,5/26/2002,,N
+EMP_619,24,Other,Single,Master's,Engineer,Engineering,9,90210,5,2,1,Completed,Voluntary,1,1,Active,3/8/2006,,N
+EMP_620,46,Male,Divorced,Bachelor's,HR,IT,8,89754,3,1,0,Not Completed,Voluntary,4,1,Active,6/26/2011,,N
+EMP_621,38,Other,Single,Master's,Manager,HR,16,43377,3,2,0,Not Completed,Involuntary,5,2,Terminated,7/2/2004,5/4/2008,Y
+EMP_622,43,Female,Married,High School,Engineer,HR,10,31800,3,4,2,Not Completed,None,3,3,Active,1/29/2015,,N
+EMP_623,50,Female,Divorced,High School,HR,Management,7,47192,4,1,0,Completed,None,4,8,Active,7/20/2006,,N
+EMP_624,47,Female,Married,Master's,IT Support,Engineering,15,84590,1,4,1,Not Completed,None,2,11,Active,2/6/2009,,N
+EMP_625,55,Female,Single,Bachelor's,Sales,IT,9,67901,5,1,2,Completed,None,1,5,Active,1/30/2008,,N
+EMP_626,47,Male,Single,Doctorate,Finance,Engineering,4,30969,2,1,1,Not Completed,Involuntary,5,2,Active,8/24/2012,,N
+EMP_627,30,Other,Divorced,Master's,HR,IT,6,66847,3,1,0,Not Completed,Voluntary,3,13,Active,2/21/2017,,N
+EMP_628,32,Male,Divorced,Doctorate,HR,Engineering,12,81031,3,4,2,Not Completed,Retirement,1,14,Resigned,4/1/2007,5/18/2009,Y
+EMP_629,28,Other,Married,Bachelor's,Sales,Management,15,111137,1,4,1,Completed,None,5,7,Active,7/22/2013,,N
+EMP_630,51,Male,Married,Doctorate,Manager,IT,19,66087,3,3,1,Completed,Involuntary,1,5,Active,3/6/2006,,N
+EMP_631,23,Male,Single,Master's,Engineer,Engineering,2,67473,5,3,0,Completed,Retirement,3,7,Resigned,12/3/2003,11/17/2011,Y
+EMP_632,51,Male,Divorced,High School,Manager,Finance,19,69379,3,4,1,Not Completed,Voluntary,3,9,Active,4/25/2001,,N
+EMP_633,25,Female,Single,Bachelor's,HR,HR,2,60655,1,4,0,Not Completed,Involuntary,4,11,Active,2/18/2008,,N
+EMP_634,35,Female,Single,High School,IT Support,HR,15,45259,4,1,0,Completed,Involuntary,2,1,Active,7/23/2004,,N
+EMP_635,34,Male,Married,High School,Engineer,IT,12,95923,5,3,0,Not Completed,Involuntary,4,14,Resigned,11/24/2000,1/9/2002,Y
+EMP_636,46,Other,Married,High School,Finance,HR,1,75814,4,3,0,Not Completed,None,1,7,Resigned,11/28/2008,3/21/2015,Y
+EMP_637,34,Other,Married,Master's,Finance,HR,14,98025,2,4,2,Not Completed,Voluntary,4,10,Active,8/17/2016,,N
+EMP_638,34,Female,Divorced,Bachelor's,Engineer,Finance,4,82996,1,3,1,Not Completed,None,3,4,Active,2/20/2001,,N
+EMP_639,58,Male,Married,Doctorate,HR,Sales,11,98426,2,4,1,Completed,Voluntary,3,9,Resigned,11/7/2019,8/23/2022,Y
+EMP_640,27,Female,Divorced,High School,IT Support,Engineering,7,75100,2,3,2,Completed,None,3,13,Active,4/20/2006,,N
+EMP_641,47,Female,Single,Doctorate,Sales,IT,13,96258,2,2,0,Completed,Retirement,4,14,Resigned,8/2/2002,7/12/2012,Y
+EMP_642,35,Female,Divorced,Bachelor's,IT Support,HR,14,38947,2,2,0,Completed,None,5,13,Active,8/14/2005,,N
+EMP_643,29,Male,Married,Bachelor's,Manager,Engineering,7,65018,1,3,0,Not Completed,Voluntary,4,11,Active,6/8/2006,,N
+EMP_644,45,Male,Divorced,Doctorate,IT Support,Engineering,11,95461,4,4,0,Completed,None,4,3,Active,9/6/2002,,N
+EMP_645,43,Female,Divorced,Doctorate,IT Support,Finance,11,52510,3,2,2,Completed,None,4,2,Active,7/14/2004,,N
+EMP_646,42,Male,Married,High School,Manager,Engineering,9,41207,2,1,1,Not Completed,Voluntary,4,11,Active,4/8/2007,,N
+EMP_647,47,Other,Married,Doctorate,Sales,HR,4,45073,3,4,0,Completed,Voluntary,3,8,Active,12/22/2003,,N
+EMP_648,31,Other,Single,Doctorate,Sales,IT,2,108183,3,2,0,Not Completed,Involuntary,2,9,Active,3/30/2008,,N
+EMP_649,34,Female,Divorced,Master's,Finance,Engineering,2,38190,2,1,0,Not Completed,Voluntary,4,6,Active,8/15/2007,,N
+EMP_650,35,Other,Single,High School,Sales,Finance,9,66855,5,2,1,Completed,Voluntary,4,6,Active,8/21/2014,,N
+EMP_651,30,Female,Single,High School,Engineer,IT,19,67846,3,2,1,Completed,None,2,5,Active,10/22/2015,,N
+EMP_652,28,Female,Divorced,Bachelor's,Finance,IT,15,38142,5,1,2,Completed,Voluntary,4,8,Resigned,12/17/2010,9/2/2019,Y
+EMP_653,52,Female,Single,Doctorate,HR,IT,18,82470,4,1,1,Not Completed,None,2,2,Terminated,5/5/2004,2/17/2012,Y
+EMP_654,37,Male,Divorced,Master's,Finance,HR,16,91805,3,3,1,Not Completed,None,3,13,Active,1/24/2001,,N
+EMP_655,29,Male,Single,Bachelor's,IT Support,Finance,2,109949,1,2,0,Completed,None,5,0,Active,3/17/2010,,N
+EMP_656,36,Male,Single,Master's,IT Support,Management,12,30768,4,1,1,Not Completed,Voluntary,4,6,Active,4/29/2002,,N
+EMP_657,46,Male,Divorced,High School,Finance,Sales,1,57255,4,3,0,Completed,Retirement,5,8,Active,3/29/2002,,N
+EMP_658,59,Female,Married,Doctorate,Manager,Engineering,2,71946,5,1,2,Not Completed,Involuntary,4,14,Active,12/14/2009,,N
+EMP_659,36,Male,Divorced,Master's,Sales,Engineering,14,35557,2,3,0,Completed,Involuntary,1,5,Active,3/31/2011,,N
+EMP_660,46,Other,Married,Bachelor's,IT Support,Engineering,7,73319,1,3,2,Not Completed,Involuntary,1,9,Resigned,9/28/2017,12/19/2022,Y
+EMP_661,28,Other,Divorced,High School,IT Support,Management,17,48691,1,1,1,Not Completed,None,3,1,Active,4/8/2007,,N
+EMP_662,47,Male,Divorced,Master's,Engineer,IT,15,84463,5,1,2,Completed,None,5,12,Active,10/29/2010,,N
+EMP_663,29,Other,Married,Master's,Sales,IT,17,106309,5,2,0,Not Completed,Voluntary,5,7,Resigned,3/4/2017,11/10/2021,Y
+EMP_664,39,Other,Married,Bachelor's,IT Support,Sales,9,40263,4,2,1,Completed,Involuntary,2,8,Active,3/30/2011,,N
+EMP_665,42,Male,Divorced,Master's,Manager,Finance,13,82142,5,3,1,Not Completed,Involuntary,2,9,Active,5/4/2001,,N
+EMP_666,37,Female,Divorced,High School,IT Support,Management,2,108922,2,1,0,Completed,None,4,14,Active,5/8/2006,,N
+EMP_667,24,Female,Divorced,Master's,Sales,Management,15,117917,4,2,1,Completed,None,2,7,Terminated,1/7/2008,1/5/2014,Y
+EMP_668,22,Female,Married,Doctorate,Engineer,HR,11,110794,4,3,0,Completed,Involuntary,2,8,Active,8/29/2008,,N
+EMP_669,34,Male,Divorced,Doctorate,Sales,IT,19,55993,4,2,2,Not Completed,Involuntary,5,0,Active,11/4/2016,,N
+EMP_670,53,Female,Married,Bachelor's,Manager,Management,14,42324,1,3,2,Completed,Retirement,1,2,Resigned,1/13/2008,4/3/2017,Y
+EMP_671,33,Female,Single,Doctorate,Engineer,Management,4,92432,1,2,1,Not Completed,Involuntary,5,2,Active,2/20/2003,,N
+EMP_672,52,Other,Married,Doctorate,Sales,Engineering,11,56162,4,1,0,Completed,Voluntary,2,13,Resigned,9/24/2007,5/1/2012,Y
+EMP_673,23,Female,Single,Master's,Manager,IT,16,100203,2,4,0,Not Completed,None,4,8,Active,8/3/2017,,N
+EMP_674,29,Male,Divorced,High School,Manager,HR,2,62383,3,4,2,Completed,Involuntary,1,2,Terminated,11/10/2006,6/30/2014,Y
+EMP_675,46,Female,Divorced,High School,Finance,Finance,2,50786,4,3,0,Not Completed,None,2,14,Resigned,5/20/2019,5/31/2023,Y
+EMP_676,26,Other,Married,Master's,IT Support,Sales,9,85357,5,4,1,Not Completed,Involuntary,2,13,Active,1/20/2018,,N
+EMP_677,23,Other,Single,Doctorate,Engineer,Finance,4,105954,3,4,1,Not Completed,None,4,9,Active,12/26/2018,,N
+EMP_678,59,Other,Divorced,Master's,Engineer,HR,8,61259,1,3,2,Completed,None,4,0,Terminated,3/22/2002,1/16/2007,Y
+EMP_679,24,Other,Divorced,Doctorate,IT Support,Engineering,18,78879,1,4,0,Completed,Retirement,2,2,Active,2/25/2000,,N
+EMP_680,59,Female,Single,Doctorate,Sales,Sales,15,61651,3,2,1,Not Completed,None,2,1,Active,12/8/2001,,N
+EMP_681,43,Other,Divorced,Doctorate,Finance,Finance,2,109591,5,2,1,Not Completed,Involuntary,5,8,Resigned,11/9/2017,5/1/2027,Y
+EMP_682,54,Other,Divorced,High School,Engineer,IT,11,91080,1,2,1,Not Completed,Voluntary,3,13,Active,10/6/2002,,N
+EMP_683,53,Other,Married,Bachelor's,Manager,IT,17,104659,1,1,0,Completed,Voluntary,4,0,Active,4/11/2011,,N
+EMP_684,38,Female,Divorced,High School,Engineer,Sales,7,69756,4,2,2,Completed,Voluntary,4,10,Active,7/15/2010,,N
+EMP_685,39,Male,Single,Doctorate,Finance,Sales,8,43755,2,4,2,Not Completed,Voluntary,5,1,Active,1/29/2009,,N
+EMP_686,24,Other,Divorced,Master's,IT Support,Sales,10,105270,5,4,1,Completed,None,1,0,Active,4/29/2013,,N
+EMP_687,27,Other,Married,Master's,HR,Management,3,78704,4,2,2,Completed,Involuntary,1,8,Active,7/21/2009,,N
+EMP_688,34,Other,Divorced,Doctorate,IT Support,HR,13,74666,2,1,1,Completed,Voluntary,1,6,Resigned,11/5/2011,5/1/2015,Y
+EMP_689,52,Female,Single,Bachelor's,Manager,IT,17,119123,1,2,1,Completed,None,4,13,Active,10/15/2011,,N
+EMP_690,38,Female,Divorced,High School,Engineer,IT,13,69661,2,1,0,Completed,None,3,12,Active,6/17/2014,,N
+EMP_691,42,Other,Single,High School,IT Support,HR,19,107277,1,1,1,Not Completed,Involuntary,3,0,Resigned,11/1/2003,4/30/2011,Y
+EMP_692,37,Male,Married,Doctorate,Manager,Engineering,9,49528,4,2,1,Not Completed,Voluntary,5,12,Active,3/11/2019,,N
+EMP_693,38,Other,Divorced,Doctorate,Sales,IT,16,118802,1,1,0,Completed,Voluntary,1,12,Active,4/8/2003,,N
+EMP_694,53,Male,Divorced,Bachelor's,Manager,Finance,5,53854,2,4,0,Not Completed,Involuntary,1,9,Resigned,9/3/2013,7/15/2015,Y
+EMP_695,22,Male,Married,High School,Engineer,Engineering,9,111242,4,2,2,Completed,None,2,11,Active,2/6/2004,,N
+EMP_696,59,Female,Single,Bachelor's,Sales,Finance,9,92236,2,4,0,Not Completed,Voluntary,5,5,Active,6/4/2003,,N
+EMP_697,29,Female,Single,High School,Sales,Sales,6,72494,2,1,1,Completed,Retirement,5,4,Active,5/22/2002,,N
+EMP_698,22,Female,Divorced,Bachelor's,Sales,IT,10,111412,3,3,0,Completed,None,4,9,Active,8/7/2006,,N
+EMP_699,23,Male,Single,Bachelor's,HR,Finance,18,90480,1,2,0,Completed,None,4,13,Resigned,9/20/2009,2/8/2016,Y
+EMP_700,58,Male,Single,Bachelor's,HR,Finance,11,75802,1,3,2,Not Completed,Involuntary,5,14,Active,4/27/2004,,N
+EMP_701,45,Male,Divorced,Master's,Sales,Sales,15,49058,2,3,0,Not Completed,None,3,10,Active,4/19/2001,,N
+EMP_702,48,Female,Single,Master's,IT Support,Engineering,7,100084,1,3,1,Not Completed,None,5,4,Resigned,9/30/2011,5/7/2013,Y
+EMP_703,41,Female,Single,Master's,IT Support,Finance,14,59502,5,3,1,Completed,Retirement,3,3,Active,5/17/2019,,N
+EMP_704,42,Female,Divorced,High School,IT Support,IT,8,92197,1,4,1,Completed,None,4,2,Active,1/18/2014,,N
+EMP_705,58,Other,Divorced,Bachelor's,Engineer,Engineering,19,88204,4,2,0,Not Completed,Retirement,5,13,Active,10/6/2009,,N
+EMP_706,56,Male,Single,Doctorate,Sales,Engineering,15,44263,1,4,0,Not Completed,None,3,12,Active,9/15/2016,,N
+EMP_707,59,Male,Divorced,Doctorate,IT Support,HR,19,97088,5,1,1,Completed,None,2,7,Active,1/31/2011,,N
+EMP_708,36,Other,Single,High School,Sales,IT,18,101550,2,2,0,Completed,Retirement,2,6,Active,12/19/2018,,N
+EMP_709,51,Male,Single,High School,Manager,IT,17,43106,1,2,2,Completed,None,5,4,Active,10/17/2019,,N
+EMP_710,25,Male,Single,Doctorate,IT Support,Sales,3,113312,4,4,2,Not Completed,None,1,11,Active,8/29/2012,,N
+EMP_711,36,Other,Single,Bachelor's,Manager,Sales,3,45396,5,1,2,Completed,None,5,8,Active,9/27/2000,,N
+EMP_712,44,Male,Divorced,Master's,Manager,Management,7,56455,3,3,2,Completed,None,4,11,Terminated,4/17/2018,8/13/2024,Y
+EMP_713,36,Female,Divorced,High School,IT Support,IT,10,84490,2,1,1,Completed,Voluntary,4,6,Active,7/17/2015,,N
+EMP_714,47,Other,Married,High School,Finance,Engineering,17,30648,2,4,0,Completed,None,2,9,Active,6/22/2016,,N
+EMP_715,33,Male,Divorced,High School,Manager,Management,15,85546,2,4,2,Not Completed,None,3,1,Active,8/14/2018,,N
+EMP_716,39,Female,Married,Doctorate,IT Support,IT,8,94396,5,4,1,Completed,None,2,14,Active,12/30/2016,,N
+EMP_717,27,Male,Single,Master's,Manager,Sales,17,107145,1,3,2,Not Completed,None,3,6,Active,3/7/2019,,N
+EMP_718,39,Other,Divorced,Bachelor's,Engineer,Sales,3,63588,1,2,0,Completed,Voluntary,5,6,Terminated,9/21/2009,11/29/2016,Y
+EMP_719,45,Female,Single,Bachelor's,HR,IT,4,94202,1,1,2,Not Completed,Involuntary,1,3,Resigned,3/14/2016,7/6/2019,Y
+EMP_720,59,Male,Married,Doctorate,HR,Management,8,111456,1,1,2,Not Completed,None,4,11,Active,7/21/2012,,N
+EMP_721,49,Other,Divorced,High School,HR,Sales,13,51829,2,3,2,Not Completed,None,5,11,Active,10/23/2019,,N
+EMP_722,36,Male,Divorced,Doctorate,Finance,Sales,1,79058,3,4,2,Not Completed,Voluntary,2,7,Active,3/15/2012,,N
+EMP_723,40,Male,Divorced,Doctorate,Sales,HR,18,103231,2,1,0,Completed,Retirement,5,3,Active,8/19/2010,,N
+EMP_724,26,Female,Divorced,Bachelor's,Manager,Finance,11,114715,3,2,1,Not Completed,None,1,6,Active,3/4/2007,,N
+EMP_725,25,Male,Single,Master's,Engineer,IT,6,66984,3,1,2,Not Completed,None,3,3,Active,9/21/2002,,N
+EMP_726,38,Other,Divorced,Bachelor's,Finance,HR,16,97670,1,4,1,Completed,None,1,12,Active,2/7/2002,,N
+EMP_727,31,Other,Married,Doctorate,HR,Finance,19,32177,4,1,0,Not Completed,Voluntary,2,7,Active,1/25/2014,,N
+EMP_728,33,Female,Divorced,Doctorate,Finance,IT,17,48683,5,4,0,Not Completed,None,1,13,Active,6/28/2001,,N
+EMP_729,26,Female,Married,High School,Engineer,HR,18,85133,4,2,2,Completed,None,4,13,Terminated,11/22/2013,1/14/2019,Y
+EMP_730,28,Male,Married,High School,IT Support,HR,11,113303,3,3,1,Not Completed,None,1,2,Terminated,7/20/2002,8/1/2006,Y
+EMP_731,44,Other,Single,Doctorate,Finance,IT,14,93276,4,4,2,Completed,None,5,1,Active,3/31/2000,,N
+EMP_732,23,Female,Divorced,Bachelor's,HR,Engineering,12,41693,3,4,0,Not Completed,Involuntary,3,9,Active,6/26/2019,,N
+EMP_733,51,Male,Married,High School,Sales,Management,7,34142,2,1,2,Not Completed,None,4,5,Active,9/19/2016,,N
+EMP_734,58,Male,Divorced,Master's,HR,IT,17,74622,2,3,2,Not Completed,None,4,6,Resigned,11/12/2011,7/10/2019,Y
+EMP_735,26,Other,Single,Master's,HR,HR,5,118564,1,4,1,Completed,Retirement,4,6,Terminated,1/31/2018,11/23/2021,Y
+EMP_736,41,Other,Single,Doctorate,HR,Engineering,14,95440,5,1,0,Not Completed,None,2,5,Resigned,9/9/2019,6/4/2025,Y
+EMP_737,47,Male,Divorced,Master's,Finance,HR,13,91291,2,2,2,Completed,None,2,10,Active,8/21/2014,,N
+EMP_738,27,Other,Married,Master's,Engineer,Management,12,32472,5,3,2,Not Completed,None,5,7,Active,4/30/2002,,N
+EMP_739,50,Male,Single,High School,HR,Engineering,14,84646,1,1,2,Not Completed,Retirement,3,11,Active,2/16/2008,,N
+EMP_740,31,Male,Married,High School,IT Support,IT,9,110836,5,3,1,Not Completed,Retirement,1,5,Active,4/21/2019,,N
+EMP_741,37,Other,Married,Bachelor's,Finance,Finance,4,60549,2,4,0,Not Completed,Involuntary,5,14,Active,5/4/2013,,N
+EMP_742,55,Female,Divorced,High School,Engineer,Management,19,108554,2,1,2,Completed,Voluntary,2,5,Active,6/4/2008,,N
+EMP_743,52,Male,Single,Bachelor's,Sales,Sales,1,107934,4,2,2,Completed,Retirement,5,2,Resigned,5/19/2018,2/6/2028,Y
+EMP_744,57,Other,Divorced,High School,HR,IT,13,55826,4,2,2,Completed,Retirement,3,11,Resigned,4/13/2007,9/2/2011,Y
+EMP_745,26,Male,Divorced,Doctorate,Manager,IT,6,98646,4,1,0,Not Completed,Voluntary,5,1,Active,9/25/2001,,N
+EMP_746,54,Male,Divorced,Bachelor's,Finance,IT,1,109142,5,1,1,Completed,None,4,14,Terminated,11/2/2008,7/23/2013,Y
+EMP_747,40,Male,Married,Doctorate,IT Support,Engineering,17,38801,2,3,1,Completed,Retirement,1,6,Active,5/9/2003,,N
+EMP_748,53,Other,Divorced,Bachelor's,Sales,Sales,3,118491,1,1,2,Not Completed,Retirement,2,5,Terminated,6/2/2003,6/3/2012,Y
+EMP_749,44,Other,Single,Master's,Sales,Engineering,17,99310,3,3,2,Completed,Involuntary,2,0,Terminated,9/9/2002,1/30/2011,Y
+EMP_750,24,Other,Married,Bachelor's,Sales,Finance,2,30258,2,4,1,Not Completed,Voluntary,3,1,Active,11/15/2006,,N
+EMP_751,22,Female,Divorced,Bachelor's,Finance,Engineering,7,36868,4,1,1,Not Completed,None,3,1,Active,7/17/2010,,N
+EMP_752,57,Male,Single,Bachelor's,Engineer,IT,1,36817,4,4,1,Completed,Involuntary,3,0,Active,1/10/2013,,N
+EMP_753,49,Female,Divorced,Bachelor's,Manager,HR,15,68512,5,2,2,Completed,None,2,2,Resigned,12/7/2010,3/11/2015,Y
+EMP_754,26,Male,Divorced,Bachelor's,IT Support,Sales,4,60856,4,3,2,Not Completed,None,4,4,Active,9/16/2002,,N
+EMP_755,34,Other,Divorced,Master's,Engineer,Sales,6,42092,5,3,1,Not Completed,Retirement,1,3,Terminated,6/4/2004,3/17/2006,Y
+EMP_756,32,Male,Married,Bachelor's,HR,Engineering,13,88259,1,2,1,Not Completed,Retirement,3,11,Active,12/31/2017,,N
+EMP_757,43,Male,Divorced,Doctorate,Manager,HR,13,83094,4,4,0,Not Completed,Voluntary,2,1,Active,3/23/2019,,N
+EMP_758,44,Male,Single,Bachelor's,Engineer,HR,1,112157,5,3,2,Completed,Voluntary,4,7,Terminated,2/28/2001,6/25/2007,Y
+EMP_759,33,Female,Divorced,Bachelor's,HR,Engineering,2,66123,4,2,0,Not Completed,Retirement,3,8,Active,12/1/2003,,N
+EMP_760,42,Other,Divorced,Doctorate,Manager,Management,6,88031,5,2,1,Completed,None,3,7,Active,6/23/2004,,N
+EMP_761,40,Other,Married,High School,Finance,Finance,11,103440,2,2,2,Not Completed,Involuntary,1,6,Active,7/2/2011,,N
+EMP_762,26,Male,Divorced,High School,IT Support,Engineering,18,118521,5,1,2,Completed,Voluntary,1,9,Active,7/5/2017,,N
+EMP_763,45,Other,Single,Master's,IT Support,IT,13,84858,3,4,0,Not Completed,Voluntary,5,1,Active,8/2/2018,,N
+EMP_764,51,Female,Single,Bachelor's,HR,HR,12,31158,1,2,0,Not Completed,None,3,14,Active,4/15/2014,,N
+EMP_765,29,Female,Divorced,Bachelor's,Engineer,Finance,7,89473,2,4,0,Completed,Involuntary,5,14,Active,6/26/2000,,N
+EMP_766,23,Other,Single,High School,Manager,Engineering,7,94720,1,3,0,Not Completed,Voluntary,2,5,Resigned,9/28/2014,5/25/2022,Y
+EMP_767,55,Female,Single,Bachelor's,HR,Finance,7,48134,2,1,2,Completed,None,1,10,Active,5/18/2014,,N
+EMP_768,44,Female,Divorced,Master's,HR,Management,2,46786,4,2,1,Not Completed,Voluntary,4,3,Resigned,7/24/2014,12/14/2023,Y
+EMP_769,24,Other,Single,Doctorate,Finance,HR,11,82990,5,2,1,Not Completed,Retirement,3,4,Active,5/4/2010,,N
+EMP_770,45,Other,Single,Bachelor's,HR,Management,1,105963,4,2,1,Not Completed,Involuntary,3,8,Active,12/20/2001,,N
+EMP_771,39,Male,Divorced,Doctorate,Manager,Management,13,81692,1,3,0,Completed,None,5,12,Active,7/25/2008,,N
+EMP_772,58,Male,Married,Master's,Sales,HR,12,85030,1,1,1,Not Completed,Voluntary,1,8,Active,4/6/2019,,N
+EMP_773,52,Female,Married,High School,Manager,IT,13,40494,2,4,0,Completed,Involuntary,5,3,Active,5/1/2012,,N
+EMP_774,35,Other,Divorced,Master's,Manager,Management,7,103026,1,4,0,Not Completed,None,3,7,Active,3/20/2008,,N
+EMP_775,22,Female,Married,Master's,Finance,Engineering,12,56273,5,4,1,Completed,Involuntary,1,10,Terminated,7/15/2017,6/17/2026,Y
+EMP_776,35,Other,Married,Master's,Finance,Engineering,17,44760,1,4,1,Completed,None,3,4,Active,8/21/2007,,N
+EMP_777,26,Female,Married,Master's,IT Support,Finance,8,68302,4,4,1,Not Completed,Involuntary,1,8,Active,10/15/2001,,N
+EMP_778,52,Female,Married,Doctorate,IT Support,Engineering,3,100822,5,4,2,Not Completed,Voluntary,3,1,Active,3/7/2007,,N
+EMP_779,52,Female,Divorced,Master's,HR,Engineering,7,97149,1,4,0,Not Completed,None,4,14,Resigned,2/21/2017,2/28/2025,Y
+EMP_780,51,Male,Married,Master's,IT Support,Finance,19,75540,3,1,2,Not Completed,None,5,3,Active,9/26/2009,,N
+EMP_781,57,Other,Married,Master's,Finance,Sales,8,118499,3,1,1,Completed,Involuntary,1,2,Resigned,6/24/2019,6/6/2026,Y
+EMP_782,22,Female,Divorced,Master's,HR,HR,14,62430,4,3,2,Completed,None,5,6,Active,4/15/2009,,N
+EMP_783,24,Male,Divorced,Doctorate,Sales,Engineering,14,68419,2,2,2,Not Completed,None,1,13,Active,1/21/2012,,N
+EMP_784,41,Female,Married,Master's,Engineer,Finance,2,33552,2,1,1,Completed,Involuntary,1,1,Active,5/4/2001,,N
+EMP_785,42,Female,Single,High School,Finance,Management,6,89571,1,2,1,Not Completed,None,1,2,Resigned,9/6/2003,8/31/2008,Y
+EMP_786,51,Other,Divorced,Master's,Finance,Management,16,53622,5,3,0,Not Completed,Voluntary,3,8,Active,11/22/2018,,N
+EMP_787,51,Female,Divorced,Master's,Sales,IT,9,78829,2,1,0,Not Completed,Involuntary,2,7,Active,8/5/2018,,N
+EMP_788,26,Other,Married,Bachelor's,Finance,Engineering,15,34996,3,3,2,Not Completed,Involuntary,3,1,Active,8/30/2001,,N
+EMP_789,31,Male,Single,Bachelor's,IT Support,HR,19,64232,2,1,1,Not Completed,None,2,5,Active,11/2/2018,,N
+EMP_790,45,Male,Divorced,Bachelor's,IT Support,Finance,15,92083,3,1,0,Completed,Involuntary,3,13,Active,10/31/2009,,N
+EMP_791,27,Female,Divorced,Master's,IT Support,IT,12,84034,2,4,0,Not Completed,None,2,2,Active,6/16/2015,,N
+EMP_792,31,Male,Divorced,High School,Sales,IT,9,69379,4,2,2,Completed,Voluntary,1,11,Active,4/12/2011,,N
+EMP_793,31,Other,Single,High School,HR,Finance,16,61002,5,3,2,Not Completed,Voluntary,1,12,Terminated,7/17/2014,7/30/2018,Y
+EMP_794,46,Other,Divorced,Bachelor's,Finance,Finance,6,65868,1,4,2,Not Completed,None,2,5,Active,1/22/2002,,N
+EMP_795,35,Male,Divorced,Bachelor's,Finance,Finance,15,99649,3,1,1,Not Completed,None,2,13,Active,5/6/2008,,N
+EMP_796,34,Other,Single,Master's,IT Support,Finance,13,56532,2,1,0,Not Completed,Involuntary,5,14,Active,3/2/2012,,N
+EMP_797,32,Other,Divorced,High School,HR,HR,10,66861,1,3,0,Completed,Involuntary,1,4,Resigned,4/13/2011,9/19/2016,Y
+EMP_798,32,Female,Single,High School,Finance,Finance,14,103660,3,2,0,Completed,None,3,9,Active,6/23/2009,,N
+EMP_799,37,Female,Single,Bachelor's,Manager,HR,3,51235,3,3,2,Not Completed,Voluntary,5,3,Active,10/11/2002,,N
+EMP_800,54,Other,Single,High School,Sales,HR,12,33579,4,1,1,Not Completed,None,2,11,Active,11/7/2012,,N
+EMP_801,53,Male,Married,Bachelor's,Engineer,HR,1,87944,2,4,2,Not Completed,None,3,6,Active,11/3/2004,,N
+EMP_802,31,Other,Divorced,Bachelor's,Manager,Management,16,55619,1,3,2,Not Completed,None,4,10,Active,5/28/2013,,N
+EMP_803,36,Female,Divorced,Doctorate,Engineer,Sales,10,51829,2,4,1,Completed,None,4,9,Active,4/24/2019,,N
+EMP_804,37,Male,Divorced,Doctorate,Manager,IT,9,105107,2,2,1,Completed,None,4,6,Active,8/16/2002,,N
+EMP_805,48,Other,Single,Master's,Manager,Engineering,18,50912,5,2,2,Not Completed,Involuntary,3,3,Resigned,5/10/2004,8/22/2010,Y
+EMP_806,53,Male,Married,Bachelor's,Manager,Management,1,70334,3,4,1,Completed,Involuntary,2,2,Resigned,12/5/2008,6/17/2018,Y
+EMP_807,27,Male,Single,Master's,Sales,Sales,10,72001,3,2,2,Completed,Involuntary,3,3,Active,2/3/2014,,N
+EMP_808,57,Male,Divorced,Doctorate,Engineer,IT,7,64341,5,4,0,Not Completed,Voluntary,5,1,Active,2/1/2007,,N
+EMP_809,29,Other,Single,High School,HR,Management,10,42663,5,4,1,Completed,None,5,3,Terminated,12/13/2006,5/28/2013,Y
+EMP_810,46,Female,Married,Doctorate,HR,IT,12,52104,2,4,0,Not Completed,Voluntary,4,14,Resigned,2/26/2018,11/9/2020,Y
+EMP_811,28,Male,Divorced,Doctorate,IT Support,HR,11,72323,3,2,1,Completed,None,2,3,Active,3/1/2002,,N
+EMP_812,38,Male,Single,Doctorate,Finance,HR,9,78277,1,4,2,Completed,None,5,11,Active,9/7/2011,,N
+EMP_813,51,Other,Married,High School,Sales,Finance,5,47640,4,2,2,Not Completed,None,1,4,Terminated,12/3/2016,4/27/2024,Y
+EMP_814,23,Female,Single,Doctorate,IT Support,HR,4,47511,5,4,2,Completed,Retirement,1,0,Active,12/30/2010,,N
+EMP_815,38,Female,Single,Bachelor's,IT Support,Management,13,88367,1,4,2,Completed,None,4,1,Resigned,1/12/2012,4/25/2018,Y
+EMP_816,25,Other,Divorced,Bachelor's,Sales,IT,8,74654,1,2,2,Completed,Involuntary,4,7,Active,6/25/2008,,N
+EMP_817,47,Male,Married,Doctorate,Sales,Engineering,16,85233,2,4,2,Completed,None,4,7,Active,10/9/2001,,N
+EMP_818,35,Other,Single,Master's,Manager,IT,1,31049,5,4,1,Completed,Involuntary,5,7,Active,4/5/2013,,N
+EMP_819,29,Female,Married,Master's,Sales,HR,17,97837,1,2,1,Not Completed,None,2,4,Active,2/2/2016,,N
+EMP_820,26,Male,Divorced,High School,HR,IT,15,94760,4,1,0,Not Completed,Voluntary,4,7,Active,1/15/2004,,N
+EMP_821,26,Male,Divorced,High School,Sales,Sales,15,88498,1,3,1,Completed,Involuntary,3,8,Resigned,4/20/2015,10/24/2023,Y
+EMP_822,26,Female,Divorced,Bachelor's,Manager,IT,18,65966,4,2,1,Not Completed,Involuntary,4,13,Active,4/1/2014,,N
+EMP_823,48,Male,Married,Bachelor's,Engineer,Management,6,73705,4,4,0,Completed,None,5,3,Resigned,9/30/2013,3/11/2018,Y
+EMP_824,26,Other,Married,Doctorate,IT Support,Sales,2,91490,4,3,0,Completed,None,2,3,Active,8/22/2005,,N
+EMP_825,24,Female,Single,Master's,Sales,Finance,5,83645,5,3,2,Not Completed,Voluntary,4,6,Active,7/12/2017,,N
+EMP_826,59,Female,Married,Bachelor's,IT Support,Finance,19,98231,4,4,0,Completed,Voluntary,1,4,Active,11/23/2013,,N
+EMP_827,51,Male,Divorced,Master's,Engineer,IT,7,102181,5,4,0,Not Completed,Involuntary,4,10,Terminated,1/28/2003,2/9/2010,Y
+EMP_828,22,Female,Single,High School,Finance,Engineering,9,85032,1,1,1,Completed,Involuntary,4,9,Active,9/7/2001,,N
+EMP_829,29,Other,Married,High School,Manager,Management,2,103685,4,4,2,Completed,Retirement,2,0,Active,7/8/2003,,N
+EMP_830,34,Female,Divorced,Doctorate,IT Support,Engineering,7,45032,3,3,0,Not Completed,Involuntary,3,7,Terminated,5/14/2006,6/22/2008,Y
+EMP_831,41,Male,Divorced,Doctorate,Sales,Sales,14,94221,1,4,2,Completed,None,4,3,Active,10/28/2013,,N
+EMP_832,27,Female,Single,Bachelor's,Finance,Engineering,15,52243,3,3,2,Not Completed,Involuntary,4,7,Resigned,8/3/2008,10/9/2013,Y
+EMP_833,29,Male,Divorced,Master's,Finance,Sales,12,75915,3,2,0,Not Completed,None,5,1,Resigned,1/20/2010,10/21/2015,Y
+EMP_834,51,Male,Married,Bachelor's,Engineer,Engineering,4,105969,2,2,0,Completed,Voluntary,2,11,Active,10/26/2007,,N
+EMP_835,36,Other,Divorced,Bachelor's,IT Support,Finance,13,47379,5,3,0,Completed,None,5,11,Active,6/11/2004,,N
+EMP_836,31,Female,Single,Master's,IT Support,Management,9,102401,2,2,0,Not Completed,None,4,3,Terminated,6/11/2009,3/9/2019,Y
+EMP_837,54,Other,Divorced,Bachelor's,HR,Engineering,12,109146,5,1,2,Completed,Voluntary,4,14,Active,6/7/2015,,N
+EMP_838,30,Other,Divorced,Doctorate,HR,IT,10,119416,2,3,1,Completed,Involuntary,1,1,Active,5/27/2007,,N
+EMP_839,54,Female,Married,Master's,HR,Sales,9,106251,1,3,2,Not Completed,Involuntary,5,4,Active,2/14/2003,,N
+EMP_840,30,Other,Married,Master's,IT Support,IT,7,32631,3,4,2,Completed,Voluntary,2,9,Active,10/1/2007,,N
+EMP_841,35,Other,Married,Bachelor's,IT Support,Management,12,70452,1,1,2,Completed,Involuntary,4,9,Resigned,5/13/2001,10/2/2007,Y
+EMP_842,53,Male,Married,Master's,HR,IT,16,91196,5,4,0,Not Completed,Involuntary,1,13,Terminated,5/19/2017,12/2/2023,Y
+EMP_843,58,Other,Divorced,Doctorate,Manager,Finance,15,43830,3,1,0,Completed,Voluntary,1,7,Terminated,10/26/2012,3/20/2016,Y
+EMP_844,27,Female,Married,Doctorate,Sales,Finance,7,54596,3,1,1,Completed,Involuntary,3,10,Terminated,1/8/2003,6/28/2012,Y
+EMP_845,26,Male,Divorced,High School,Sales,HR,8,73484,5,1,1,Completed,Involuntary,2,6,Active,6/16/2008,,N
+EMP_846,25,Other,Married,High School,Manager,Management,7,55772,1,3,1,Completed,Voluntary,1,10,Resigned,10/18/2004,12/10/2011,Y
+EMP_847,37,Other,Married,High School,Engineer,Engineering,11,35116,3,2,2,Completed,Voluntary,2,14,Active,12/28/2010,,N
+EMP_848,31,Female,Married,High School,Sales,Finance,4,111839,1,2,1,Completed,None,4,4,Active,9/5/2001,,N
+EMP_849,52,Other,Divorced,Bachelor's,IT Support,Engineering,18,115053,1,4,2,Not Completed,None,3,10,Resigned,5/5/2008,4/4/2016,Y
+EMP_850,52,Female,Married,High School,Finance,Engineering,19,31636,1,4,0,Completed,None,2,6,Active,10/5/2001,,N
+EMP_851,35,Other,Divorced,High School,IT Support,Sales,7,71590,3,2,2,Completed,Voluntary,3,4,Terminated,11/8/2007,3/28/2015,Y
+EMP_852,34,Other,Married,High School,Sales,IT,13,37811,4,2,0,Completed,Voluntary,2,6,Active,5/16/2011,,N
+EMP_853,25,Female,Married,High School,Manager,Engineering,9,45223,2,1,0,Not Completed,Voluntary,2,3,Resigned,2/9/2003,12/12/2004,Y
+EMP_854,47,Male,Single,Bachelor's,Engineer,HR,18,40581,5,4,1,Completed,Retirement,5,3,Active,11/5/2012,,N
+EMP_855,45,Female,Married,High School,Sales,Management,7,50919,1,4,0,Not Completed,None,3,9,Active,4/11/2016,,N
+EMP_856,30,Male,Divorced,Master's,Manager,Management,16,113018,3,4,1,Not Completed,Involuntary,2,3,Active,2/16/2010,,N
+EMP_857,56,Male,Single,Doctorate,Finance,Sales,5,79441,5,4,1,Not Completed,None,5,10,Active,6/20/2006,,N
+EMP_858,36,Female,Divorced,Master's,HR,HR,7,32604,4,2,1,Not Completed,None,5,7,Active,6/10/2000,,N
+EMP_859,45,Female,Divorced,Bachelor's,Finance,IT,6,94655,4,2,2,Not Completed,None,3,0,Terminated,12/26/2004,12/5/2006,Y
+EMP_860,52,Other,Single,Bachelor's,Finance,HR,2,30207,3,3,1,Completed,Voluntary,4,9,Active,8/13/2016,,N
+EMP_861,40,Other,Married,Bachelor's,Engineer,Management,7,38463,1,3,1,Completed,Voluntary,3,4,Active,2/6/2012,,N
+EMP_862,23,Male,Single,Doctorate,Sales,HR,9,66446,4,2,0,Completed,Voluntary,2,11,Active,7/28/2007,,N
+EMP_863,23,Other,Divorced,High School,HR,IT,13,42671,4,1,2,Completed,Voluntary,4,9,Active,4/25/2009,,N
+EMP_864,57,Female,Married,Bachelor's,Manager,Finance,17,39476,4,2,1,Not Completed,None,3,1,Active,3/12/2007,,N
+EMP_865,58,Male,Single,High School,HR,Engineering,17,34986,3,1,1,Not Completed,Involuntary,3,9,Active,12/7/2010,,N
+EMP_866,55,Other,Divorced,Bachelor's,Sales,Engineering,15,58590,5,4,1,Not Completed,Retirement,3,3,Active,9/3/2013,,N
+EMP_867,40,Other,Married,Doctorate,Engineer,Management,18,45526,2,3,0,Not Completed,Involuntary,3,4,Resigned,4/17/2013,9/10/2022,Y
+EMP_868,59,Female,Divorced,Master's,Sales,Management,15,72001,3,1,0,Not Completed,Voluntary,4,7,Active,8/2/2012,,N
+EMP_869,44,Female,Married,Master's,Manager,IT,11,83242,1,4,0,Not Completed,Voluntary,2,1,Active,2/26/2000,,N
+EMP_870,37,Other,Married,Doctorate,HR,HR,12,36803,3,2,1,Completed,Involuntary,5,1,Active,6/20/2014,,N
+EMP_871,27,Male,Single,High School,Finance,IT,17,81446,3,3,1,Completed,None,3,1,Active,11/11/2008,,N
+EMP_872,47,Male,Married,Bachelor's,Sales,Sales,12,41905,2,2,1,Completed,None,5,13,Resigned,6/2/2006,9/26/2015,Y
+EMP_873,43,Female,Divorced,Master's,IT Support,Management,7,32461,2,4,1,Completed,Retirement,5,7,Active,1/10/2014,,N
+EMP_874,45,Female,Married,Doctorate,Engineer,Management,7,88687,2,4,1,Not Completed,Retirement,5,11,Active,12/10/2017,,N
+EMP_875,42,Female,Divorced,High School,Engineer,Management,10,35673,5,2,0,Not Completed,Voluntary,3,13,Active,6/3/2013,,N
+EMP_876,51,Other,Married,Master's,HR,IT,16,106490,3,4,1,Not Completed,None,3,2,Terminated,6/1/2016,8/27/2022,Y
+EMP_877,32,Other,Married,Doctorate,Finance,IT,11,76772,1,4,2,Completed,Voluntary,3,4,Active,4/22/2014,,N
+EMP_878,30,Female,Single,Bachelor's,Manager,HR,16,105956,2,1,1,Completed,None,3,1,Active,9/11/2001,,N
+EMP_879,33,Male,Married,Doctorate,Finance,Finance,2,112863,2,2,0,Completed,Retirement,1,5,Active,5/6/2013,,N
+EMP_880,47,Female,Married,High School,HR,Management,2,59564,3,2,1,Completed,Voluntary,2,9,Active,5/6/2013,,N
+EMP_881,59,Female,Divorced,Master's,Finance,Finance,18,99692,1,3,2,Completed,Involuntary,1,5,Active,2/26/2007,,N
+EMP_882,24,Male,Divorced,Bachelor's,HR,IT,5,42251,2,1,1,Completed,None,4,1,Terminated,7/21/2019,3/31/2027,Y
+EMP_883,54,Male,Divorced,High School,Finance,HR,14,109056,3,1,2,Not Completed,Involuntary,1,14,Active,9/1/2011,,N
+EMP_884,36,Male,Married,Doctorate,Sales,IT,8,112085,4,4,2,Completed,Voluntary,1,3,Resigned,9/17/2014,11/9/2017,Y
+EMP_885,26,Male,Divorced,Master's,Engineer,Sales,6,31905,5,3,0,Completed,Voluntary,1,10,Active,10/6/2007,,N
+EMP_886,45,Other,Divorced,Master's,HR,Engineering,9,82208,3,3,2,Completed,Retirement,2,1,Active,10/27/2001,,N
+EMP_887,32,Other,Married,High School,HR,Engineering,6,105051,2,1,1,Not Completed,Voluntary,5,13,Terminated,5/7/2000,6/2/2005,Y
+EMP_888,54,Female,Divorced,Bachelor's,Engineer,IT,17,92094,1,3,2,Completed,None,4,9,Active,9/27/2009,,N
+EMP_889,44,Other,Single,High School,IT Support,Engineering,8,46734,4,1,1,Completed,None,4,3,Active,6/3/2011,,N
+EMP_890,31,Female,Single,Master's,IT Support,Engineering,3,56886,1,3,1,Not Completed,None,2,12,Terminated,8/22/2013,10/25/2016,Y
+EMP_891,49,Female,Divorced,Master's,Manager,HR,12,93611,1,1,1,Completed,Voluntary,1,12,Terminated,8/15/2014,9/26/2018,Y
+EMP_892,38,Male,Divorced,Master's,HR,Engineering,13,66077,1,1,1,Completed,Retirement,5,10,Resigned,12/17/2018,4/22/2027,Y
+EMP_893,47,Male,Divorced,Bachelor's,Sales,HR,18,35661,3,4,0,Not Completed,Voluntary,3,6,Resigned,1/3/2018,3/27/2020,Y
+EMP_894,46,Other,Married,Master's,Finance,Sales,11,33838,3,4,1,Not Completed,Retirement,2,4,Active,9/26/2001,,N
+EMP_895,57,Other,Single,Master's,Sales,Management,2,72073,5,3,0,Completed,None,5,9,Active,11/17/2009,,N
+EMP_896,33,Other,Single,High School,HR,Management,14,40378,4,4,2,Not Completed,Retirement,2,3,Resigned,2/6/2010,10/26/2018,Y
+EMP_897,24,Other,Divorced,Master's,Manager,Management,1,38058,1,2,1,Not Completed,None,2,14,Terminated,9/16/2015,8/12/2020,Y
+EMP_898,50,Male,Divorced,Doctorate,HR,HR,15,97525,2,2,2,Completed,None,3,9,Active,11/23/2012,,N
+EMP_899,45,Male,Married,High School,Manager,HR,18,105113,1,3,0,Not Completed,Voluntary,5,9,Active,9/12/2002,,N
+EMP_900,40,Other,Married,Master's,Engineer,HR,18,115404,4,1,1,Not Completed,None,1,2,Active,1/17/2007,,N
+EMP_901,34,Female,Single,High School,Finance,Sales,17,119806,1,4,1,Completed,Voluntary,5,12,Active,3/2/2003,,N
+EMP_902,37,Male,Married,High School,Sales,Finance,1,63884,3,3,0,Not Completed,Involuntary,5,12,Active,6/2/2012,,N
+EMP_903,48,Male,Single,Doctorate,Manager,HR,14,58527,3,2,2,Completed,Voluntary,1,12,Resigned,6/24/2015,12/12/2023,Y
+EMP_904,27,Male,Divorced,High School,Sales,HR,16,72187,4,1,0,Not Completed,None,3,5,Active,6/5/2018,,N
+EMP_905,31,Male,Divorced,High School,Engineer,Management,4,68735,5,4,2,Not Completed,Involuntary,5,1,Active,8/4/2010,,N
+EMP_906,59,Other,Single,Bachelor's,HR,IT,6,45981,1,1,2,Completed,None,1,3,Active,11/21/2017,,N
+EMP_907,29,Other,Divorced,Master's,Manager,Engineering,16,92457,4,1,2,Not Completed,None,2,11,Active,8/31/2000,,N
+EMP_908,39,Female,Married,Bachelor's,Finance,Engineering,6,57080,2,4,1,Not Completed,None,2,7,Active,2/6/2002,,N
+EMP_909,53,Male,Divorced,Master's,Manager,Sales,15,41797,2,4,0,Not Completed,None,1,1,Active,10/22/2008,,N
+EMP_910,38,Other,Divorced,High School,IT Support,Engineering,1,87056,5,2,1,Not Completed,Voluntary,2,8,Active,2/18/2001,,N
+EMP_911,23,Other,Single,Master's,HR,Finance,7,56457,3,2,0,Not Completed,None,5,1,Active,12/27/2017,,N
+EMP_912,41,Male,Married,High School,HR,Management,11,50917,4,1,2,Completed,Retirement,1,7,Active,12/27/2008,,N
+EMP_913,31,Other,Married,Master's,Finance,Sales,1,38871,1,1,1,Not Completed,Retirement,5,7,Active,11/23/2011,,N
+EMP_914,30,Other,Divorced,High School,Finance,Engineering,8,49053,4,2,1,Completed,Voluntary,4,6,Terminated,7/3/2008,8/10/2016,Y
+EMP_915,46,Other,Divorced,Master's,Engineer,Engineering,14,96727,5,2,1,Not Completed,Voluntary,3,13,Resigned,11/26/2007,2/18/2015,Y
+EMP_916,46,Female,Married,Master's,Sales,IT,5,113050,4,1,2,Not Completed,None,3,14,Resigned,7/6/2017,1/30/2023,Y
+EMP_917,45,Other,Married,Master's,Manager,Management,13,113323,5,3,0,Completed,Voluntary,3,12,Active,5/11/2002,,N
+EMP_918,27,Male,Single,High School,Engineer,Sales,15,89415,5,3,2,Not Completed,Involuntary,1,9,Active,2/17/2016,,N
+EMP_919,51,Male,Divorced,Master's,Sales,Management,9,68398,5,3,1,Not Completed,Voluntary,4,5,Active,6/15/2013,,N
+EMP_920,31,Male,Divorced,High School,Engineer,Sales,8,105058,4,4,1,Not Completed,Voluntary,3,0,Resigned,7/28/2013,3/28/2015,Y
+EMP_921,52,Other,Married,Bachelor's,IT Support,Engineering,19,35030,2,2,2,Not Completed,Voluntary,5,1,Active,3/11/2009,,N
+EMP_922,39,Female,Single,Master's,Finance,Management,17,31381,1,3,1,Completed,Retirement,3,6,Resigned,10/8/2010,7/20/2017,Y
+EMP_923,54,Other,Married,Doctorate,Finance,Management,19,46753,5,3,1,Completed,None,4,12,Active,4/22/2010,,N
+EMP_924,40,Male,Divorced,Doctorate,HR,Finance,18,35092,3,2,0,Not Completed,Involuntary,5,10,Active,7/28/2000,,N
+EMP_925,44,Female,Divorced,High School,Manager,IT,18,82946,5,4,0,Completed,Involuntary,5,3,Active,10/5/2016,,N
+EMP_926,26,Female,Divorced,Doctorate,Manager,Management,4,117620,4,3,0,Completed,Retirement,1,8,Resigned,11/27/2005,6/29/2009,Y
+EMP_927,47,Other,Divorced,High School,Manager,Sales,2,110093,5,4,0,Not Completed,Involuntary,1,2,Active,7/5/2006,,N
+EMP_928,50,Male,Single,High School,Engineer,Finance,5,88520,3,4,0,Not Completed,None,2,3,Active,12/29/2005,,N
+EMP_929,45,Other,Divorced,Doctorate,Engineer,Management,17,38567,2,1,0,Completed,Involuntary,4,2,Terminated,11/6/2001,4/11/2008,Y
+EMP_930,27,Male,Married,Doctorate,Manager,Management,7,110152,4,2,1,Completed,Involuntary,5,6,Active,1/21/2017,,N
+EMP_931,25,Female,Single,Bachelor's,HR,Finance,16,114680,4,1,1,Completed,Retirement,4,1,Active,3/15/2017,,N
+EMP_932,47,Other,Single,High School,Sales,Engineering,1,57866,4,3,0,Completed,None,3,9,Active,9/17/2003,,N
+EMP_933,36,Female,Divorced,Doctorate,IT Support,Management,12,64711,3,1,2,Completed,Retirement,3,11,Active,8/31/2018,,N
+EMP_934,34,Male,Single,Bachelor's,Engineer,HR,19,78743,4,2,0,Completed,Voluntary,2,11,Active,1/26/2000,,N
+EMP_935,43,Female,Divorced,Bachelor's,Manager,IT,9,55386,2,4,1,Not Completed,Voluntary,5,1,Resigned,5/17/2007,3/8/2011,Y
+EMP_936,34,Female,Single,High School,Finance,Engineering,16,116842,1,4,2,Not Completed,None,5,1,Active,7/8/2004,,N
+EMP_937,38,Female,Single,Master's,Engineer,Management,7,53013,1,3,2,Completed,None,2,13,Resigned,2/6/2008,4/8/2013,Y
+EMP_938,57,Other,Married,Doctorate,Sales,Engineering,15,36885,5,2,2,Not Completed,Voluntary,3,11,Active,3/15/2012,,N
+EMP_939,46,Male,Married,Doctorate,Engineer,Sales,12,62821,1,4,1,Not Completed,None,5,3,Active,5/26/2016,,N
+EMP_940,55,Female,Married,Doctorate,Sales,Engineering,4,44045,3,3,2,Completed,Retirement,4,7,Terminated,8/9/2004,2/11/2014,Y
+EMP_941,42,Female,Single,Doctorate,Sales,Finance,6,48780,1,2,1,Completed,Retirement,5,7,Active,3/13/2012,,N
+EMP_942,46,Female,Married,Doctorate,Engineer,Management,6,55550,3,2,1,Completed,Voluntary,3,7,Resigned,5/20/2005,9/24/2014,Y
+EMP_943,46,Female,Married,Doctorate,Sales,Engineering,15,119771,3,1,0,Not Completed,None,5,7,Resigned,12/30/2008,8/11/2015,Y
+EMP_944,43,Male,Married,Bachelor's,Engineer,HR,3,108377,5,4,1,Completed,Voluntary,5,6,Active,9/22/2002,,N
+EMP_945,44,Male,Single,High School,Engineer,Sales,2,78284,1,2,2,Not Completed,None,1,5,Active,3/17/2000,,N
+EMP_946,46,Other,Divorced,Bachelor's,HR,Sales,5,90238,5,4,1,Not Completed,Voluntary,5,11,Active,11/12/2005,,N
+EMP_947,35,Male,Married,Doctorate,Finance,Engineering,8,77184,4,4,1,Completed,None,2,6,Terminated,8/14/2002,11/2/2011,Y
+EMP_948,35,Male,Single,High School,IT Support,Finance,19,90623,2,2,0,Not Completed,Voluntary,2,12,Active,5/2/2008,,N
+EMP_949,47,Female,Single,Doctorate,Sales,Sales,16,51305,1,4,0,Completed,Voluntary,4,14,Active,8/5/2000,,N
+EMP_950,51,Other,Divorced,High School,Engineer,Engineering,19,70021,4,1,1,Completed,Voluntary,5,13,Active,10/21/2010,,N
+EMP_951,47,Other,Married,Bachelor's,Sales,Engineering,16,116759,4,3,1,Not Completed,Voluntary,4,4,Active,8/12/2006,,N
+EMP_952,59,Female,Single,High School,Engineer,Sales,6,73184,5,3,1,Completed,Involuntary,3,7,Active,12/17/2016,,N
+EMP_953,43,Other,Single,Bachelor's,IT Support,Engineering,1,48942,5,2,0,Completed,Voluntary,3,1,Active,2/27/2009,,N
+EMP_954,55,Male,Single,Doctorate,Engineer,Engineering,18,107418,2,1,0,Completed,None,1,4,Terminated,1/7/2004,5/28/2005,Y
+EMP_955,46,Other,Divorced,High School,Engineer,IT,8,54714,2,3,2,Completed,Retirement,1,6,Active,2/3/2013,,N
+EMP_956,57,Female,Married,Master's,Finance,HR,5,81672,2,1,2,Completed,Retirement,5,8,Active,11/12/2007,,N
+EMP_957,34,Other,Single,Master's,Sales,Engineering,12,116557,2,2,2,Completed,Voluntary,5,9,Active,2/2/2000,,N
+EMP_958,50,Other,Single,Bachelor's,Finance,IT,18,73201,5,1,2,Not Completed,Involuntary,4,0,Resigned,12/29/2007,11/15/2013,Y
+EMP_959,30,Other,Single,Bachelor's,Finance,IT,5,93296,3,2,0,Completed,Voluntary,4,10,Active,7/19/2009,,N
+EMP_960,36,Female,Single,Bachelor's,Finance,Engineering,13,82979,5,3,0,Not Completed,None,5,8,Active,8/1/2018,,N
+EMP_961,52,Male,Married,Bachelor's,Finance,Finance,12,118549,3,3,1,Completed,Involuntary,5,2,Active,2/28/2001,,N
+EMP_962,48,Other,Married,Doctorate,HR,Sales,16,113257,5,3,2,Completed,None,1,0,Active,5/14/2013,,N
+EMP_963,52,Male,Single,Master's,Sales,IT,14,107817,5,3,1,Not Completed,Involuntary,1,6,Active,6/5/2008,,N
+EMP_964,31,Male,Single,Bachelor's,Sales,IT,11,44008,2,4,1,Not Completed,None,1,14,Active,3/5/2018,,N
+EMP_965,58,Male,Single,High School,Engineer,Finance,9,90196,3,1,0,Completed,Voluntary,5,2,Active,3/27/2013,,N
+EMP_966,28,Other,Divorced,High School,Sales,Management,10,32294,4,1,1,Completed,Voluntary,4,7,Active,4/24/2013,,N
+EMP_967,53,Male,Divorced,Doctorate,IT Support,Finance,16,49061,4,1,1,Not Completed,Retirement,2,10,Resigned,12/22/2004,12/5/2008,Y
+EMP_968,32,Other,Divorced,Bachelor's,Finance,Management,19,85733,4,2,0,Not Completed,None,2,1,Active,1/24/2016,,N
+EMP_969,49,Other,Single,High School,Manager,Management,10,70004,2,3,0,Not Completed,None,4,14,Terminated,10/1/2010,11/30/2011,Y
+EMP_970,25,Other,Divorced,Bachelor's,Sales,Finance,4,110625,4,3,0,Not Completed,Voluntary,4,3,Active,12/26/2014,,N
+EMP_971,52,Male,Married,High School,Manager,HR,8,81293,5,4,0,Completed,Retirement,4,11,Resigned,1/1/2011,10/16/2017,Y
+EMP_972,50,Other,Divorced,Doctorate,IT Support,Finance,11,83682,2,4,2,Not Completed,None,1,1,Active,9/22/2018,,N
+EMP_973,54,Female,Single,High School,HR,IT,6,40237,4,3,2,Completed,Voluntary,3,10,Active,10/4/2011,,N
+EMP_974,25,Female,Married,Bachelor's,Engineer,Sales,4,41694,2,1,2,Not Completed,Voluntary,5,3,Resigned,12/15/2001,3/3/2003,Y
+EMP_975,47,Female,Single,Bachelor's,Engineer,Finance,5,116472,5,1,1,Completed,None,1,11,Active,1/4/2018,,N
+EMP_976,52,Other,Married,Doctorate,Engineer,HR,18,40468,2,3,2,Not Completed,None,2,0,Active,10/12/2008,,N
+EMP_977,52,Female,Divorced,Master's,HR,Finance,3,48461,4,2,0,Completed,None,5,12,Resigned,11/24/2010,7/4/2018,Y
+EMP_978,48,Other,Divorced,Bachelor's,Finance,HR,7,105376,2,1,2,Not Completed,None,4,9,Resigned,1/1/2012,8/15/2015,Y
+EMP_979,46,Other,Married,Master's,Manager,Sales,12,104062,1,3,0,Not Completed,Voluntary,2,4,Active,7/17/2005,,N
+EMP_980,57,Other,Married,Bachelor's,Sales,Engineering,3,108000,4,3,2,Not Completed,Retirement,4,2,Active,8/9/2010,,N
+EMP_981,52,Male,Single,Doctorate,Finance,HR,17,106599,5,4,2,Not Completed,None,4,8,Active,3/18/2010,,N
+EMP_982,58,Female,Married,High School,Engineer,HR,3,110280,3,4,0,Completed,None,4,3,Terminated,10/15/2018,10/31/2026,Y
+EMP_983,44,Other,Single,Master's,Engineer,IT,11,43064,2,3,0,Not Completed,None,5,5,Active,2/27/2007,,N
+EMP_984,56,Female,Married,High School,Finance,HR,6,117276,2,2,1,Not Completed,None,2,8,Resigned,3/21/2002,4/13/2004,Y
+EMP_985,25,Female,Married,Doctorate,Manager,Sales,11,43589,4,3,1,Not Completed,Involuntary,2,1,Active,9/21/2006,,N
+EMP_986,49,Male,Divorced,Doctorate,Finance,Management,4,83324,4,1,1,Completed,Voluntary,4,6,Active,7/23/2005,,N
+EMP_987,34,Female,Divorced,Doctorate,HR,HR,17,30932,1,2,2,Completed,Involuntary,1,2,Active,9/21/2013,,N
+EMP_988,22,Other,Single,Bachelor's,Engineer,Sales,1,47019,5,2,2,Not Completed,None,3,0,Active,7/8/2016,,N
+EMP_989,33,Other,Single,Bachelor's,Manager,IT,12,85835,2,4,0,Completed,Voluntary,1,8,Active,4/24/2019,,N
+EMP_990,47,Female,Single,Bachelor's,Sales,IT,3,52157,2,3,0,Completed,None,5,8,Active,11/20/2004,,N
+EMP_991,44,Female,Married,Bachelor's,Engineer,Engineering,16,82381,3,4,1,Completed,Voluntary,3,11,Active,5/26/2005,,N
+EMP_992,43,Male,Married,Master's,Finance,HR,3,47574,2,1,0,Not Completed,Voluntary,1,10,Active,12/17/2001,,N
+EMP_993,49,Other,Single,Doctorate,Manager,Management,14,78312,2,4,2,Completed,Retirement,2,3,Active,4/4/2002,,N
+EMP_994,38,Female,Married,Master's,Engineer,Sales,17,101044,1,1,0,Completed,None,1,8,Active,9/23/2004,,N
+EMP_995,27,Female,Divorced,Bachelor's,Sales,Engineering,19,62779,3,3,0,Not Completed,Involuntary,4,6,Resigned,1/8/2014,6/11/2016,Y
+EMP_996,35,Other,Married,High School,Sales,Management,7,60888,2,3,0,Not Completed,None,5,3,Active,2/10/2006,,N
+EMP_997,38,Female,Divorced,Master's,IT Support,Engineering,11,56025,2,4,0,Not Completed,Involuntary,1,11,Active,8/31/2018,,N
+EMP_998,59,Male,Single,High School,Finance,Management,16,38060,5,4,0,Completed,Voluntary,1,1,Terminated,7/21/2015,2/19/2021,Y
+EMP_999,26,Female,Married,Bachelor's,HR,Finance,19,63216,2,4,1,Not Completed,Voluntary,3,12,Active,6/20/2018,,N
+EMP_1000,34,Female,Single,Master's,Finance,Finance,5,103197,1,1,1,Completed,None,4,4,Terminated,2/1/2002,12/14/2007,Y
